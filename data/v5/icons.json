@@ -1,61 +1,57 @@
 [
 	{
-		"id": "500px",
+		"id": "ab-testing",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "500px",
+		"label": "AB testing",
 		"terms": [],
-		"unicode": "f26e"
-	},
-	{
-		"id": "accessible-icon",
-		"styles": [
-			"brands"
-		],
-		"label": "Accessible Icon",
-		"terms": [
-			"accessibility",
-			"wheelchair",
-			"handicap",
-			"person",
-			"wheelchair-alt"
-		],
-		"unicode": "f368"
-	},
-	{
-		"id": "accusoft",
-		"styles": [
-			"brands"
-		],
-		"label": "Accusoft",
-		"terms": [],
-		"unicode": "f369"
+		"unicode": "f01c9"
 	},
 	{
 		"id": "address-book",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Address Book",
 		"terms": [],
 		"unicode": "f2b9"
 	},
 	{
+		"id": "address-book-o",
+		"styles": [
+			""
+		],
+		"label": "Address Book Outlined",
+		"terms": [],
+		"unicode": "f2ba"
+	},
+	{
 		"id": "address-card",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Address Card",
-		"terms": [],
+		"terms": [
+			"vcard"
+		],
 		"unicode": "f2bb"
+	},
+	{
+		"id": "address-card-o",
+		"styles": [
+			""
+		],
+		"label": "Address Card Outlined",
+		"terms": [
+			"vcard-o"
+		],
+		"unicode": "f2bc"
 	},
 	{
 		"id": "adjust",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "adjust",
 		"terms": [
@@ -66,43 +62,16 @@
 	{
 		"id": "adn",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "App.net",
 		"terms": [],
 		"unicode": "f170"
 	},
 	{
-		"id": "adversal",
-		"styles": [
-			"brands"
-		],
-		"label": "Adversal",
-		"terms": [],
-		"unicode": "f36a"
-	},
-	{
-		"id": "affiliatetheme",
-		"styles": [
-			"brands"
-		],
-		"label": "affiliatetheme",
-		"terms": [],
-		"unicode": "f36b"
-	},
-	{
-		"id": "algolia",
-		"styles": [
-			"brands"
-		],
-		"label": "Algolia",
-		"terms": [],
-		"unicode": "f36c"
-	},
-	{
 		"id": "align-center",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "align-center",
 		"terms": [
@@ -114,7 +83,7 @@
 	{
 		"id": "align-justify",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "align-justify",
 		"terms": [
@@ -125,7 +94,7 @@
 	{
 		"id": "align-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "align-left",
 		"terms": [
@@ -136,7 +105,7 @@
 	{
 		"id": "align-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "align-right",
 		"terms": [
@@ -147,25 +116,16 @@
 	{
 		"id": "amazon",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Amazon",
 		"terms": [],
 		"unicode": "f270"
 	},
 	{
-		"id": "amazon-pay",
-		"styles": [
-			"brands"
-		],
-		"label": "Amazon Pay",
-		"terms": [],
-		"unicode": "f42c"
-	},
-	{
 		"id": "ambulance",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "ambulance",
 		"terms": [
@@ -178,25 +138,18 @@
 	{
 		"id": "american-sign-language-interpreting",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "American Sign Language Interpreting",
-		"terms": [],
-		"unicode": "f2a3"
-	},
-	{
-		"id": "amilia",
-		"styles": [
-			"brands"
+		"terms": [
+			"asl-interpreting"
 		],
-		"label": "Amilia",
-		"terms": [],
-		"unicode": "f36d"
+		"unicode": "f2a3"
 	},
 	{
 		"id": "anchor",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Anchor",
 		"terms": [
@@ -207,7 +160,7 @@
 	{
 		"id": "android",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Android",
 		"terms": [
@@ -218,7 +171,7 @@
 	{
 		"id": "angellist",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "AngelList",
 		"terms": [],
@@ -227,7 +180,7 @@
 	{
 		"id": "angle-double-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Angle Double Down",
 		"terms": [
@@ -238,7 +191,7 @@
 	{
 		"id": "angle-double-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Angle Double Left",
 		"terms": [
@@ -253,7 +206,7 @@
 	{
 		"id": "angle-double-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Angle Double Right",
 		"terms": [
@@ -268,7 +221,7 @@
 	{
 		"id": "angle-double-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Angle Double Up",
 		"terms": [
@@ -279,7 +232,7 @@
 	{
 		"id": "angle-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "angle-down",
 		"terms": [
@@ -290,7 +243,7 @@
 	{
 		"id": "angle-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "angle-left",
 		"terms": [
@@ -303,7 +256,7 @@
 	{
 		"id": "angle-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "angle-right",
 		"terms": [
@@ -316,7 +269,7 @@
 	{
 		"id": "angle-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "angle-up",
 		"terms": [
@@ -325,54 +278,9 @@
 		"unicode": "f106"
 	},
 	{
-		"id": "angrycreative",
-		"styles": [
-			"brands"
-		],
-		"label": "Angry Creative",
-		"terms": [],
-		"unicode": "f36e"
-	},
-	{
-		"id": "angular",
-		"styles": [
-			"brands"
-		],
-		"label": "Angular",
-		"terms": [],
-		"unicode": "f420"
-	},
-	{
-		"id": "app-store",
-		"styles": [
-			"brands"
-		],
-		"label": "App Store",
-		"terms": [],
-		"unicode": "f36f"
-	},
-	{
-		"id": "app-store-ios",
-		"styles": [
-			"brands"
-		],
-		"label": "iOS App Store",
-		"terms": [],
-		"unicode": "f370"
-	},
-	{
-		"id": "apper",
-		"styles": [
-			"brands"
-		],
-		"label": "Apper Systems AB",
-		"terms": [],
-		"unicode": "f371"
-	},
-	{
 		"id": "apple",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Apple",
 		"terms": [
@@ -382,84 +290,33 @@
 		"unicode": "f179"
 	},
 	{
-		"id": "apple-pay",
-		"styles": [
-			"brands"
-		],
-		"label": "Apple Pay",
-		"terms": [],
-		"unicode": "f415"
-	},
-	{
 		"id": "archive",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Archive",
 		"terms": [
 			"box",
-			"storage",
-			"package"
+			"storage"
 		],
 		"unicode": "f187"
 	},
 	{
-		"id": "arrow-alt-circle-down",
+		"id": "area-chart",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Alternate Arrow Circle Down",
+		"label": "Area Chart",
 		"terms": [
-			"download",
-			"arrow-circle-o-down"
+			"graph",
+			"analytics"
 		],
-		"unicode": "f358"
-	},
-	{
-		"id": "arrow-alt-circle-left",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Alternate Arrow Circle Left",
-		"terms": [
-			"previous",
-			"back",
-			"arrow-circle-o-left"
-		],
-		"unicode": "f359"
-	},
-	{
-		"id": "arrow-alt-circle-right",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Alternate Arrow Circle Right",
-		"terms": [
-			"next",
-			"forward",
-			"arrow-circle-o-right"
-		],
-		"unicode": "f35a"
-	},
-	{
-		"id": "arrow-alt-circle-up",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Alternate Arrow Circle Up",
-		"terms": [
-			"arrow-circle-o-up"
-		],
-		"unicode": "f35b"
+		"unicode": "f1fe"
 	},
 	{
 		"id": "arrow-circle-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Arrow Circle Down",
 		"terms": [
@@ -470,7 +327,7 @@
 	{
 		"id": "arrow-circle-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Arrow Circle Left",
 		"terms": [
@@ -480,9 +337,53 @@
 		"unicode": "f0a8"
 	},
 	{
+		"id": "arrow-circle-o-down",
+		"styles": [
+			""
+		],
+		"label": "Arrow Circle Outlined Down",
+		"terms": [
+			"download"
+		],
+		"unicode": "f01a"
+	},
+	{
+		"id": "arrow-circle-o-left",
+		"styles": [
+			""
+		],
+		"label": "Arrow Circle Outlined Left",
+		"terms": [
+			"previous",
+			"back"
+		],
+		"unicode": "f190"
+	},
+	{
+		"id": "arrow-circle-o-right",
+		"styles": [
+			""
+		],
+		"label": "Arrow Circle Outlined Right",
+		"terms": [
+			"next",
+			"forward"
+		],
+		"unicode": "f18e"
+	},
+	{
+		"id": "arrow-circle-o-up",
+		"styles": [
+			""
+		],
+		"label": "Arrow Circle Outlined Up",
+		"terms": [],
+		"unicode": "f01b"
+	},
+	{
 		"id": "arrow-circle-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Arrow Circle Right",
 		"terms": [
@@ -494,7 +395,7 @@
 	{
 		"id": "arrow-circle-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Arrow Circle Up",
 		"terms": [],
@@ -503,7 +404,7 @@
 	{
 		"id": "arrow-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "arrow-down",
 		"terms": [
@@ -514,7 +415,7 @@
 	{
 		"id": "arrow-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "arrow-left",
 		"terms": [
@@ -526,7 +427,7 @@
 	{
 		"id": "arrow-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "arrow-right",
 		"terms": [
@@ -538,18 +439,31 @@
 	{
 		"id": "arrow-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "arrow-up",
 		"terms": [],
 		"unicode": "f062"
 	},
 	{
+		"id": "arrows",
+		"styles": [
+			""
+		],
+		"label": "Arrows",
+		"terms": [
+			"move",
+			"reorder",
+			"resize"
+		],
+		"unicode": "f047"
+	},
+	{
 		"id": "arrows-alt",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Arrows",
+		"label": "Arrows Alt",
 		"terms": [
 			"expand",
 			"enlarge",
@@ -558,39 +472,36 @@
 			"move",
 			"reorder",
 			"resize",
-			"arrow",
-			"arrows"
+			"arrow"
 		],
 		"unicode": "f0b2"
 	},
 	{
-		"id": "arrows-alt-h",
+		"id": "arrows-h",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Arrows Horizontal",
+		"label": "Arrows Horizontal",
 		"terms": [
-			"resize",
-			"arrows-h"
+			"resize"
 		],
-		"unicode": "f337"
+		"unicode": "f07e"
 	},
 	{
-		"id": "arrows-alt-v",
+		"id": "arrows-v",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Arrows Vertical",
+		"label": "Arrows Vertical",
 		"terms": [
-			"resize",
-			"arrows-v"
+			"resize"
 		],
-		"unicode": "f338"
+		"unicode": "f07d"
 	},
 	{
 		"id": "assistive-listening-systems",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Assistive Listening Systems",
 		"terms": [],
@@ -599,7 +510,7 @@
 	{
 		"id": "asterisk",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "asterisk",
 		"terms": [
@@ -608,84 +519,27 @@
 		"unicode": "f069"
 	},
 	{
-		"id": "asymmetrik",
-		"styles": [
-			"brands"
-		],
-		"label": "Asymmetrik, Ltd.",
-		"terms": [],
-		"unicode": "f372"
-	},
-	{
 		"id": "at",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "At",
-		"terms": [
-			"email",
-			"e-mail"
-		],
-		"unicode": "f1fa"
-	},
-	{
-		"id": "audible",
-		"styles": [
-			"brands"
-		],
-		"label": "Audible",
 		"terms": [],
-		"unicode": "f373"
+		"unicode": "f1fa"
 	},
 	{
 		"id": "audio-description",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Audio Description",
 		"terms": [],
 		"unicode": "f29e"
 	},
 	{
-		"id": "autoprefixer",
-		"styles": [
-			"brands"
-		],
-		"label": "Autoprefixer",
-		"terms": [],
-		"unicode": "f41c"
-	},
-	{
-		"id": "avianex",
-		"styles": [
-			"brands"
-		],
-		"label": "avianex",
-		"terms": [],
-		"unicode": "f374"
-	},
-	{
-		"id": "aviato",
-		"styles": [
-			"brands"
-		],
-		"label": "Aviato",
-		"terms": [],
-		"unicode": "f421"
-	},
-	{
-		"id": "aws",
-		"styles": [
-			"brands"
-		],
-		"label": "Amazon Web Services (AWS)",
-		"terms": [],
-		"unicode": "f375"
-	},
-	{
 		"id": "backward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "backward",
 		"terms": [
@@ -697,7 +551,7 @@
 	{
 		"id": "balance-scale",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Balance Scale",
 		"terms": [],
@@ -706,7 +560,7 @@
 	{
 		"id": "ban",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "ban",
 		"terms": [
@@ -717,38 +571,36 @@
 			"block",
 			"stop",
 			"abort",
-			"cancel",
-			"ban",
-			"prohibit"
+			"cancel"
 		],
 		"unicode": "f05e"
 	},
 	{
-		"id": "band-aid",
-		"styles": [
-			"solid"
-		],
-		"label": "Band-Aid",
-		"terms": [
-			"bandage",
-			"ouch",
-			"boo boo"
-		],
-		"unicode": "f462"
-	},
-	{
 		"id": "bandcamp",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Bandcamp",
 		"terms": [],
 		"unicode": "f2d5"
 	},
 	{
+		"id": "bar-chart",
+		"styles": [
+			""
+		],
+		"label": "Bar Chart",
+		"terms": [
+			"bar-chart-o",
+			"graph",
+			"analytics"
+		],
+		"unicode": "f080"
+	},
+	{
 		"id": "barcode",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "barcode",
 		"terms": [
@@ -759,13 +611,14 @@
 	{
 		"id": "bars",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bars",
 		"terms": [
+			"navicon",
+			"reorder",
 			"menu",
 			"drag",
-			"reorder",
 			"settings",
 			"list",
 			"ul",
@@ -777,99 +630,86 @@
 		"unicode": "f0c9"
 	},
 	{
-		"id": "baseball-ball",
-		"styles": [
-			"solid"
-		],
-		"label": "Baseball Ball",
-		"terms": [],
-		"unicode": "f433"
-	},
-	{
-		"id": "basketball-ball",
-		"styles": [
-			"solid"
-		],
-		"label": "Basketball Ball",
-		"terms": [],
-		"unicode": "f434"
-	},
-	{
 		"id": "bath",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bath",
-		"terms": [],
+		"terms": [
+			"bathtub",
+			"s15"
+		],
 		"unicode": "f2cd"
 	},
 	{
 		"id": "battery-empty",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Battery Empty",
 		"terms": [
-			"power",
-			"status"
+			"battery-0",
+			"power"
 		],
 		"unicode": "f244"
 	},
 	{
 		"id": "battery-full",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Battery Full",
 		"terms": [
-			"power",
-			"status"
+			"battery-4",
+			"battery",
+			"power"
 		],
 		"unicode": "f240"
 	},
 	{
 		"id": "battery-half",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Battery 1/2 Full",
 		"terms": [
-			"power",
-			"status"
+			"battery-2",
+			"power"
 		],
 		"unicode": "f242"
 	},
 	{
 		"id": "battery-quarter",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Battery 1/4 Full",
 		"terms": [
-			"power",
-			"status"
+			"battery-1",
+			"power"
 		],
 		"unicode": "f243"
 	},
 	{
 		"id": "battery-three-quarters",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Battery 3/4 Full",
 		"terms": [
-			"power",
-			"status"
+			"battery-3",
+			"power"
 		],
 		"unicode": "f241"
 	},
 	{
 		"id": "bed",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bed",
 		"terms": [
+			"hotel",
 			"travel"
 		],
 		"unicode": "f236"
@@ -877,7 +717,7 @@
 	{
 		"id": "beer",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "beer",
 		"terms": [
@@ -893,7 +733,7 @@
 	{
 		"id": "behance",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Behance",
 		"terms": [],
@@ -902,7 +742,7 @@
 	{
 		"id": "behance-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Behance Square",
 		"terms": [],
@@ -911,8 +751,7 @@
 	{
 		"id": "bell",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "bell",
 		"terms": [
@@ -923,41 +762,52 @@
 		"unicode": "f0f3"
 	},
 	{
+		"id": "bell-o",
+		"styles": [
+			""
+		],
+		"label": "Bell Outlined",
+		"terms": [
+			"alert",
+			"reminder",
+			"notification"
+		],
+		"unicode": "f0a2"
+	},
+	{
 		"id": "bell-slash",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Bell Slash",
 		"terms": [],
 		"unicode": "f1f6"
 	},
 	{
+		"id": "bell-slash-o",
+		"styles": [
+			""
+		],
+		"label": "Bell Slash Outlined",
+		"terms": [],
+		"unicode": "f1f7"
+	},
+	{
 		"id": "bicycle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bicycle",
 		"terms": [
 			"vehicle",
-			"bike",
-			"gears"
+			"bike"
 		],
 		"unicode": "f206"
 	},
 	{
-		"id": "bimobject",
-		"styles": [
-			"brands"
-		],
-		"label": "BIMobject",
-		"terms": [],
-		"unicode": "f378"
-	},
-	{
 		"id": "binoculars",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Binoculars",
 		"terms": [],
@@ -966,7 +816,7 @@
 	{
 		"id": "birthday-cake",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Birthday Cake",
 		"terms": [],
@@ -975,82 +825,47 @@
 	{
 		"id": "bitbucket",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Bitbucket",
 		"terms": [
-			"git",
-			"bitbucket-square"
+			"git"
 		],
 		"unicode": "f171"
 	},
 	{
-		"id": "bitcoin",
+		"id": "bitbucket-square",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Bitcoin",
-		"terms": [],
-		"unicode": "f379"
-	},
-	{
-		"id": "bity",
-		"styles": [
-			"brands"
+		"label": "Bitbucket Square",
+		"terms": [
+			"git"
 		],
-		"label": "Bity",
-		"terms": [],
-		"unicode": "f37a"
+		"unicode": "f172"
 	},
 	{
 		"id": "black-tie",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Font Awesome Black Tie",
 		"terms": [],
 		"unicode": "f27e"
 	},
 	{
-		"id": "blackberry",
-		"styles": [
-			"brands"
-		],
-		"label": "BlackBerry",
-		"terms": [],
-		"unicode": "f37b"
-	},
-	{
 		"id": "blind",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Blind",
 		"terms": [],
 		"unicode": "f29d"
 	},
 	{
-		"id": "blogger",
-		"styles": [
-			"brands"
-		],
-		"label": "Blogger",
-		"terms": [],
-		"unicode": "f37c"
-	},
-	{
-		"id": "blogger-b",
-		"styles": [
-			"brands"
-		],
-		"label": "Blogger B",
-		"terms": [],
-		"unicode": "f37d"
-	},
-	{
 		"id": "bluetooth",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -1059,7 +874,7 @@
 	{
 		"id": "bluetooth-b",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Bluetooth",
 		"terms": [],
@@ -1068,7 +883,7 @@
 	{
 		"id": "bold",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "bold",
 		"terms": [],
@@ -1077,10 +892,11 @@
 	{
 		"id": "bolt",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Lightning Bolt",
 		"terms": [
+			"flash",
 			"lightning",
 			"weather"
 		],
@@ -1089,7 +905,7 @@
 	{
 		"id": "bomb",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bomb",
 		"terms": [],
@@ -1098,7 +914,7 @@
 	{
 		"id": "book",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "book",
 		"terms": [
@@ -1110,8 +926,7 @@
 	{
 		"id": "bookmark",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "bookmark",
 		"terms": [
@@ -1120,36 +935,20 @@
 		"unicode": "f02e"
 	},
 	{
-		"id": "bowling-ball",
+		"id": "bookmark-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Bowling Ball",
-		"terms": [],
-		"unicode": "f436"
-	},
-	{
-		"id": "box",
-		"styles": [
-			"solid"
+		"label": "Bookmark Outlined",
+		"terms": [
+			"save"
 		],
-		"label": "Box",
-		"terms": [],
-		"unicode": "f466"
-	},
-	{
-		"id": "boxes",
-		"styles": [
-			"solid"
-		],
-		"label": "Boxes",
-		"terms": [],
-		"unicode": "f468"
+		"unicode": "f097"
 	},
 	{
 		"id": "braille",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Braille",
 		"terms": [],
@@ -1158,7 +957,7 @@
 	{
 		"id": "briefcase",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Briefcase",
 		"terms": [
@@ -1173,16 +972,18 @@
 	{
 		"id": "btc",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "BTC",
-		"terms": [],
+		"label": "Bitcoin (BTC)",
+		"terms": [
+			"bitcoin"
+		],
 		"unicode": "f15a"
 	},
 	{
 		"id": "bug",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bug",
 		"terms": [
@@ -1194,8 +995,7 @@
 	{
 		"id": "building",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Building",
 		"terms": [
@@ -1208,9 +1008,24 @@
 		"unicode": "f1ad"
 	},
 	{
+		"id": "building-o",
+		"styles": [
+			""
+		],
+		"label": "Building Outlined",
+		"terms": [
+			"work",
+			"business",
+			"apartment",
+			"office",
+			"company"
+		],
+		"unicode": "f0f7"
+	},
+	{
 		"id": "bullhorn",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "bullhorn",
 		"terms": [
@@ -1225,7 +1040,7 @@
 	{
 		"id": "bullseye",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bullseye",
 		"terms": [
@@ -1234,18 +1049,9 @@
 		"unicode": "f140"
 	},
 	{
-		"id": "buromobelexperte",
-		"styles": [
-			"brands"
-		],
-		"label": "Büromöbel-Experte GmbH & Co. KG.",
-		"terms": [],
-		"unicode": "f37f"
-	},
-	{
 		"id": "bus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Bus",
 		"terms": [
@@ -1256,7 +1062,7 @@
 	{
 		"id": "buysellads",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "BuySellAds",
 		"terms": [],
@@ -1265,7 +1071,7 @@
 	{
 		"id": "calculator",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Calculator",
 		"terms": [],
@@ -1274,81 +1080,73 @@
 	{
 		"id": "calendar",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Calendar",
+		"label": "calendar",
 		"terms": [
 			"date",
 			"time",
 			"when",
-			"event",
-			"calendar-o"
-		],
-		"unicode": "f133"
-	},
-	{
-		"id": "calendar-alt",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Alternate Calendar",
-		"terms": [
-			"date",
-			"time",
-			"when",
-			"event",
-			"calendar"
+			"event"
 		],
 		"unicode": "f073"
 	},
 	{
-		"id": "calendar-check",
+		"id": "calendar-check-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Calendar Check",
+		"label": "Calendar Check Outlined",
 		"terms": [
 			"ok"
 		],
 		"unicode": "f274"
 	},
 	{
-		"id": "calendar-minus",
+		"id": "calendar-minus-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Calendar Minus",
+		"label": "Calendar Minus Outlined",
 		"terms": [],
 		"unicode": "f272"
 	},
 	{
-		"id": "calendar-plus",
+		"id": "calendar-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Calendar Plus",
+		"label": "calendar-o",
+		"terms": [
+			"date",
+			"time",
+			"when",
+			"event"
+		],
+		"unicode": "f133"
+	},
+	{
+		"id": "calendar-plus-o",
+		"styles": [
+			""
+		],
+		"label": "Calendar Plus Outlined",
 		"terms": [],
 		"unicode": "f271"
 	},
 	{
-		"id": "calendar-times",
+		"id": "calendar-times-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Calendar Times",
+		"label": "Calendar Times Outlined",
 		"terms": [],
 		"unicode": "f273"
 	},
 	{
 		"id": "camera",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "camera",
 		"terms": [
@@ -1361,9 +1159,9 @@
 	{
 		"id": "camera-retro",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Retro Camera",
+		"label": "camera-retro",
 		"terms": [
 			"photo",
 			"picture",
@@ -1374,10 +1172,11 @@
 	{
 		"id": "car",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Car",
 		"terms": [
+			"automobile",
 			"vehicle"
 		],
 		"unicode": "f1b9"
@@ -1385,7 +1184,7 @@
 	{
 		"id": "caret-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Caret Down",
 		"terms": [
@@ -1400,7 +1199,7 @@
 	{
 		"id": "caret-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Caret Left",
 		"terms": [
@@ -1414,7 +1213,7 @@
 	{
 		"id": "caret-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Caret Right",
 		"terms": [
@@ -1426,64 +1225,60 @@
 		"unicode": "f0da"
 	},
 	{
-		"id": "caret-square-down",
+		"id": "caret-square-o-down",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Caret Square Down",
+		"label": "Caret Square Outlined Down",
 		"terms": [
+			"toggle-down",
 			"more",
 			"dropdown",
-			"menu",
-			"caret-square-o-down"
+			"menu"
 		],
 		"unicode": "f150"
 	},
 	{
-		"id": "caret-square-left",
+		"id": "caret-square-o-left",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Caret Square Left",
+		"label": "Caret Square Outlined Left",
 		"terms": [
+			"toggle-left",
 			"previous",
-			"back",
-			"caret-square-o-left"
+			"back"
 		],
 		"unicode": "f191"
 	},
 	{
-		"id": "caret-square-right",
+		"id": "caret-square-o-right",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Caret Square Right",
+		"label": "Caret Square Outlined Right",
 		"terms": [
+			"toggle-right",
 			"next",
-			"forward",
-			"caret-square-o-right"
+			"forward"
 		],
 		"unicode": "f152"
 	},
 	{
-		"id": "caret-square-up",
+		"id": "caret-square-o-up",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Caret Square Up",
+		"label": "Caret Square Outlined Up",
 		"terms": [
-			"caret-square-o-up"
+			"toggle-up"
 		],
 		"unicode": "f151"
 	},
 	{
 		"id": "caret-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Caret Up",
 		"terms": [
@@ -1495,7 +1290,7 @@
 	{
 		"id": "cart-arrow-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Shopping Cart Arrow Down",
 		"terms": [
@@ -1506,7 +1301,7 @@
 	{
 		"id": "cart-plus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Add to Shopping Cart",
 		"terms": [
@@ -1516,18 +1311,18 @@
 		"unicode": "f217"
 	},
 	{
-		"id": "cc-amazon-pay",
+		"id": "cc",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Amazon Pay Credit Card",
+		"label": "Closed Captions",
 		"terms": [],
-		"unicode": "f42d"
+		"unicode": "f20a"
 	},
 	{
 		"id": "cc-amex",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "American Express Credit Card",
 		"terms": [
@@ -1536,18 +1331,9 @@
 		"unicode": "f1f3"
 	},
 	{
-		"id": "cc-apple-pay",
-		"styles": [
-			"brands"
-		],
-		"label": "Apple Pay Credit Card",
-		"terms": [],
-		"unicode": "f416"
-	},
-	{
 		"id": "cc-diners-club",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Diner's Club Credit Card",
 		"terms": [],
@@ -1556,7 +1342,7 @@
 	{
 		"id": "cc-discover",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Discover Credit Card",
 		"terms": [],
@@ -1565,7 +1351,7 @@
 	{
 		"id": "cc-jcb",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "JCB Credit Card",
 		"terms": [],
@@ -1574,7 +1360,7 @@
 	{
 		"id": "cc-mastercard",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "MasterCard Credit Card",
 		"terms": [],
@@ -1583,7 +1369,7 @@
 	{
 		"id": "cc-paypal",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Paypal Credit Card",
 		"terms": [],
@@ -1592,7 +1378,7 @@
 	{
 		"id": "cc-stripe",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Stripe Credit Card",
 		"terms": [],
@@ -1601,25 +1387,16 @@
 	{
 		"id": "cc-visa",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Visa Credit Card",
 		"terms": [],
 		"unicode": "f1f0"
 	},
 	{
-		"id": "centercode",
-		"styles": [
-			"brands"
-		],
-		"label": "Centercode",
-		"terms": [],
-		"unicode": "f380"
-	},
-	{
 		"id": "certificate",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "certificate",
 		"terms": [
@@ -1629,63 +1406,21 @@
 		"unicode": "f0a3"
 	},
 	{
-		"id": "chart-area",
+		"id": "chain-broken",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Area Chart",
+		"label": "Chain Broken",
 		"terms": [
-			"graph",
-			"analytics",
-			"area-chart"
+			"unlink",
+			"remove"
 		],
-		"unicode": "f1fe"
-	},
-	{
-		"id": "chart-bar",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Bar Chart",
-		"terms": [
-			"graph",
-			"analytics",
-			"bar-chart"
-		],
-		"unicode": "f080"
-	},
-	{
-		"id": "chart-line",
-		"styles": [
-			"solid"
-		],
-		"label": "Line Chart",
-		"terms": [
-			"graph",
-			"analytics",
-			"line-chart",
-			"dashboard"
-		],
-		"unicode": "f201"
-	},
-	{
-		"id": "chart-pie",
-		"styles": [
-			"solid"
-		],
-		"label": "Pie Chart",
-		"terms": [
-			"graph",
-			"analytics",
-			"pie-chart"
-		],
-		"unicode": "f200"
+		"unicode": "f127"
 	},
 	{
 		"id": "check",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Check",
 		"terms": [
@@ -1696,16 +1431,14 @@
 			"accept",
 			"confirm",
 			"tick",
-			"ok",
-			"select"
+			"ok"
 		],
 		"unicode": "f00c"
 	},
 	{
 		"id": "check-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Check Circle",
 		"terms": [
@@ -1714,16 +1447,30 @@
 			"agree",
 			"accept",
 			"confirm",
-			"ok",
-			"select"
+			"ok"
 		],
 		"unicode": "f058"
 	},
 	{
+		"id": "check-circle-o",
+		"styles": [
+			""
+		],
+		"label": "Check Circle Outlined",
+		"terms": [
+			"todo",
+			"done",
+			"agree",
+			"accept",
+			"confirm",
+			"ok"
+		],
+		"unicode": "f05d"
+	},
+	{
 		"id": "check-square",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Check Square",
 		"terms": [
@@ -1733,87 +1480,30 @@
 			"agree",
 			"accept",
 			"confirm",
-			"ok",
-			"select"
+			"ok"
 		],
 		"unicode": "f14a"
 	},
 	{
-		"id": "chess",
+		"id": "check-square-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Chess",
-		"terms": [],
-		"unicode": "f439"
-	},
-	{
-		"id": "chess-bishop",
-		"styles": [
-			"solid"
+		"label": "Check Square Outlined",
+		"terms": [
+			"todo",
+			"done",
+			"agree",
+			"accept",
+			"confirm",
+			"ok"
 		],
-		"label": "Chess Bishop",
-		"terms": [],
-		"unicode": "f43a"
-	},
-	{
-		"id": "chess-board",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess Board",
-		"terms": [],
-		"unicode": "f43c"
-	},
-	{
-		"id": "chess-king",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess King",
-		"terms": [],
-		"unicode": "f43f"
-	},
-	{
-		"id": "chess-knight",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess Knight",
-		"terms": [],
-		"unicode": "f441"
-	},
-	{
-		"id": "chess-pawn",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess Pawn",
-		"terms": [],
-		"unicode": "f443"
-	},
-	{
-		"id": "chess-queen",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess Queen",
-		"terms": [],
-		"unicode": "f445"
-	},
-	{
-		"id": "chess-rook",
-		"styles": [
-			"solid"
-		],
-		"label": "Chess Rook",
-		"terms": [],
-		"unicode": "f447"
+		"unicode": "f046"
 	},
 	{
 		"id": "chevron-circle-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Chevron Circle Down",
 		"terms": [
@@ -1827,7 +1517,7 @@
 	{
 		"id": "chevron-circle-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Chevron Circle Left",
 		"terms": [
@@ -1840,7 +1530,7 @@
 	{
 		"id": "chevron-circle-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Chevron Circle Right",
 		"terms": [
@@ -1853,7 +1543,7 @@
 	{
 		"id": "chevron-circle-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Chevron Circle Up",
 		"terms": [
@@ -1864,7 +1554,7 @@
 	{
 		"id": "chevron-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "chevron-down",
 		"terms": [],
@@ -1873,7 +1563,7 @@
 	{
 		"id": "chevron-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "chevron-left",
 		"terms": [
@@ -1886,7 +1576,7 @@
 	{
 		"id": "chevron-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "chevron-right",
 		"terms": [
@@ -1899,7 +1589,7 @@
 	{
 		"id": "chevron-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "chevron-up",
 		"terms": [],
@@ -1908,7 +1598,7 @@
 	{
 		"id": "child",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Child",
 		"terms": [],
@@ -1917,7 +1607,7 @@
 	{
 		"id": "chrome",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Chrome",
 		"terms": [
@@ -1928,79 +1618,72 @@
 	{
 		"id": "circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Circle",
 		"terms": [
 			"dot",
-			"notification",
-			"circle-thin"
+			"notification"
 		],
 		"unicode": "f111"
 	},
 	{
-		"id": "circle-notch",
+		"id": "circle-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Circle Notched",
-		"terms": [
-			"circle-o-notch"
+		"label": "Circle Outlined",
+		"terms": [],
+		"unicode": "f10c"
+	},
+	{
+		"id": "circle-o-notch",
+		"styles": [
+			""
 		],
+		"label": "Circle Outlined Notched",
+		"terms": [],
 		"unicode": "f1ce"
+	},
+	{
+		"id": "circle-thin",
+		"styles": [
+			""
+		],
+		"label": "Circle Outlined Thin",
+		"terms": [],
+		"unicode": "f1db"
 	},
 	{
 		"id": "clipboard",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Clipboard",
 		"terms": [
-			"paste"
+			"paste",
+			"copy"
 		],
-		"unicode": "f328"
+		"unicode": "f0ea"
 	},
 	{
-		"id": "clipboard-check",
+		"id": "clock-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Clipboard Check",
-		"terms": [],
-		"unicode": "f46c"
-	},
-	{
-		"id": "clipboard-list",
-		"styles": [
-			"solid"
-		],
-		"label": "Clipboard List",
-		"terms": [],
-		"unicode": "f46d"
-	},
-	{
-		"id": "clock",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Clock",
+		"label": "Clock Outlined",
 		"terms": [
 			"watch",
 			"timer",
 			"late",
-			"timestamp",
-			"date"
+			"timestamp"
 		],
 		"unicode": "f017"
 	},
 	{
 		"id": "clone",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Clone",
 		"terms": [
@@ -2009,21 +1692,9 @@
 		"unicode": "f24d"
 	},
 	{
-		"id": "closed-captioning",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Closed Captioning",
-		"terms": [
-			"cc"
-		],
-		"unicode": "f20a"
-	},
-	{
 		"id": "cloud",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Cloud",
 		"terms": [
@@ -2032,58 +1703,31 @@
 		"unicode": "f0c2"
 	},
 	{
-		"id": "cloud-download-alt",
+		"id": "cloud-download",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Cloud Download Alternate",
+		"label": "Cloud Download",
 		"terms": [
-			"cloud-download"
+			"import"
 		],
-		"unicode": "f381"
+		"unicode": "f0ed"
 	},
 	{
-		"id": "cloud-upload-alt",
+		"id": "cloud-upload",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Cloud Upload Alternate",
+		"label": "Cloud Upload",
 		"terms": [
-			"cloud-upload"
+			"import"
 		],
-		"unicode": "f382"
-	},
-	{
-		"id": "cloudscale",
-		"styles": [
-			"brands"
-		],
-		"label": "cloudscale.ch",
-		"terms": [],
-		"unicode": "f383"
-	},
-	{
-		"id": "cloudsmith",
-		"styles": [
-			"brands"
-		],
-		"label": "Cloudsmith",
-		"terms": [],
-		"unicode": "f384"
-	},
-	{
-		"id": "cloudversify",
-		"styles": [
-			"brands"
-		],
-		"label": "cloudversify",
-		"terms": [],
-		"unicode": "f385"
+		"unicode": "f0ee"
 	},
 	{
 		"id": "code",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Code",
 		"terms": [
@@ -2093,11 +1737,11 @@
 		"unicode": "f121"
 	},
 	{
-		"id": "code-branch",
+		"id": "code-fork",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Code Branch",
+		"label": "code-fork",
 		"terms": [
 			"git",
 			"fork",
@@ -2106,15 +1750,14 @@
 			"github",
 			"rebase",
 			"version",
-			"branch",
-			"code-fork"
+			"merge"
 		],
 		"unicode": "f126"
 	},
 	{
 		"id": "codepen",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Codepen",
 		"terms": [],
@@ -2123,7 +1766,7 @@
 	{
 		"id": "codiepie",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Codie Pie",
 		"terms": [],
@@ -2132,7 +1775,7 @@
 	{
 		"id": "coffee",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Coffee",
 		"terms": [
@@ -2148,10 +1791,11 @@
 	{
 		"id": "cog",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "cog",
 		"terms": [
+			"gear",
 			"settings"
 		],
 		"unicode": "f013"
@@ -2159,33 +1803,31 @@
 	{
 		"id": "cogs",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "cogs",
 		"terms": [
-			"settings",
-			"gears"
+			"gears",
+			"settings"
 		],
 		"unicode": "f085"
 	},
 	{
 		"id": "columns",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Columns",
 		"terms": [
 			"split",
-			"panes",
-			"dashboard"
+			"panes"
 		],
 		"unicode": "f0db"
 	},
 	{
 		"id": "comment",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "comment",
 		"terms": [
@@ -2203,12 +1845,11 @@
 		"unicode": "f075"
 	},
 	{
-		"id": "comment-alt",
+		"id": "comment-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Alternate Comment",
+		"label": "comment-o",
 		"terms": [
 			"speech",
 			"notification",
@@ -2219,16 +1860,54 @@
 			"message",
 			"texting",
 			"sms",
-			"conversation",
-			"commenting"
+			"conversation"
+		],
+		"unicode": "f0e5"
+	},
+	{
+		"id": "commenting",
+		"styles": [
+			""
+		],
+		"label": "Commenting",
+		"terms": [
+			"speech",
+			"notification",
+			"note",
+			"chat",
+			"bubble",
+			"feedback",
+			"message",
+			"texting",
+			"sms",
+			"conversation"
 		],
 		"unicode": "f27a"
 	},
 	{
+		"id": "commenting-o",
+		"styles": [
+			""
+		],
+		"label": "Commenting Outlined",
+		"terms": [
+			"speech",
+			"notification",
+			"note",
+			"chat",
+			"bubble",
+			"feedback",
+			"message",
+			"texting",
+			"sms",
+			"conversation"
+		],
+		"unicode": "f27b"
+	},
+	{
 		"id": "comments",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "comments",
 		"terms": [
@@ -2246,10 +1925,29 @@
 		"unicode": "f086"
 	},
 	{
+		"id": "comments-o",
+		"styles": [
+			""
+		],
+		"label": "comments-o",
+		"terms": [
+			"speech",
+			"notification",
+			"note",
+			"chat",
+			"bubble",
+			"feedback",
+			"message",
+			"texting",
+			"sms",
+			"conversation"
+		],
+		"unicode": "f0e6"
+	},
+	{
 		"id": "compass",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Compass",
 		"terms": [
@@ -2263,7 +1961,7 @@
 	{
 		"id": "compress",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Compress",
 		"terms": [
@@ -2278,7 +1976,7 @@
 	{
 		"id": "connectdevelop",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Connect Develop",
 		"terms": [],
@@ -2287,50 +1985,25 @@
 	{
 		"id": "contao",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Contao",
 		"terms": [],
 		"unicode": "f26d"
 	},
 	{
-		"id": "copy",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Copy",
-		"terms": [
-			"duplicate",
-			"clone",
-			"file",
-			"files-o"
-		],
-		"unicode": "f0c5"
-	},
-	{
 		"id": "copyright",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Copyright",
 		"terms": [],
 		"unicode": "f1f9"
 	},
 	{
-		"id": "cpanel",
-		"styles": [
-			"brands"
-		],
-		"label": "cPanel",
-		"terms": [],
-		"unicode": "f388"
-	},
-	{
 		"id": "creative-commons",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Creative Commons",
 		"terms": [],
@@ -2339,8 +2012,23 @@
 	{
 		"id": "credit-card",
 		"styles": [
-			"solid",
-			"regular"
+			""
+		],
+		"label": "credit-card",
+		"terms": [
+			"money",
+			"buy",
+			"debit",
+			"checkout",
+			"purchase",
+			"payment"
+		],
+		"unicode": "f09d"
+	},
+	{
+		"id": "credit-card-alt",
+		"styles": [
+			""
 		],
 		"label": "Credit Card",
 		"terms": [
@@ -2350,37 +2038,34 @@
 			"checkout",
 			"purchase",
 			"payment",
-			"credit-card-alt"
+			"credit card"
 		],
-		"unicode": "f09d"
+		"unicode": "f283"
 	},
 	{
 		"id": "crop",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "crop",
-		"terms": [
-			"design"
-		],
+		"terms": [],
 		"unicode": "f125"
 	},
 	{
 		"id": "crosshairs",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Crosshairs",
 		"terms": [
-			"picker",
-			"gpd"
+			"picker"
 		],
 		"unicode": "f05b"
 	},
 	{
 		"id": "css3",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "CSS 3 Logo",
 		"terms": [
@@ -2389,69 +2074,43 @@
 		"unicode": "f13c"
 	},
 	{
-		"id": "css3-alt",
-		"styles": [
-			"brands"
-		],
-		"label": "Alternate CSS3 Logo",
-		"terms": [],
-		"unicode": "f38b"
-	},
-	{
 		"id": "cube",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Cube",
-		"terms": [
-			"package"
-		],
+		"terms": [],
 		"unicode": "f1b2"
 	},
 	{
 		"id": "cubes",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Cubes",
-		"terms": [
-			"packages"
-		],
+		"terms": [],
 		"unicode": "f1b3"
 	},
 	{
-		"id": "cut",
+		"id": "cutlery",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Cut",
+		"label": "Cutlery",
 		"terms": [
-			"scissors"
+			"food",
+			"restaurant",
+			"spoon",
+			"knife",
+			"dinner",
+			"eat"
 		],
-		"unicode": "f0c4"
-	},
-	{
-		"id": "cuttlefish",
-		"styles": [
-			"brands"
-		],
-		"label": "Cuttlefish",
-		"terms": [],
-		"unicode": "f38c"
-	},
-	{
-		"id": "d-and-d",
-		"styles": [
-			"brands"
-		],
-		"label": "Dungeons & Dragons",
-		"terms": [],
-		"unicode": "f38d"
+		"unicode": "f0f5"
 	},
 	{
 		"id": "dashcube",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "DashCube",
 		"terms": [],
@@ -2460,7 +2119,7 @@
 	{
 		"id": "database",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Database",
 		"terms": [],
@@ -2469,43 +2128,28 @@
 	{
 		"id": "deaf",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Deaf",
-		"terms": [],
+		"terms": [
+			"deafness",
+			"hard-of-hearing"
+		],
 		"unicode": "f2a4"
 	},
 	{
 		"id": "delicious",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Delicious Logo",
 		"terms": [],
 		"unicode": "f1a5"
 	},
 	{
-		"id": "deploydog",
-		"styles": [
-			"brands"
-		],
-		"label": "deploy.dog",
-		"terms": [],
-		"unicode": "f38e"
-	},
-	{
-		"id": "deskpro",
-		"styles": [
-			"brands"
-		],
-		"label": "Deskpro",
-		"terms": [],
-		"unicode": "f38f"
-	},
-	{
 		"id": "desktop",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Desktop",
 		"terms": [
@@ -2514,123 +2158,46 @@
 			"desktop",
 			"computer",
 			"demo",
-			"device",
-			"pc"
+			"device"
 		],
 		"unicode": "f108"
 	},
 	{
 		"id": "deviantart",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "deviantART",
 		"terms": [],
 		"unicode": "f1bd"
 	},
 	{
+		"id": "diamond",
+		"styles": [
+			""
+		],
+		"label": "Diamond",
+		"terms": [
+			"gem",
+			"gemstone"
+		],
+		"unicode": "f219"
+	},
+	{
 		"id": "digg",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Digg Logo",
 		"terms": [],
 		"unicode": "f1a6"
 	},
 	{
-		"id": "digital-ocean",
+		"id": "dot-circle-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Digital Ocean",
-		"terms": [],
-		"unicode": "f391"
-	},
-	{
-		"id": "discord",
-		"styles": [
-			"brands"
-		],
-		"label": "Discord",
-		"terms": [],
-		"unicode": "f392"
-	},
-	{
-		"id": "discourse",
-		"styles": [
-			"brands"
-		],
-		"label": "Discourse",
-		"terms": [],
-		"unicode": "f393"
-	},
-	{
-		"id": "dna",
-		"styles": [
-			"solid"
-		],
-		"label": "DNA",
-		"terms": [
-			"double helix",
-			"helix"
-		],
-		"unicode": "f471"
-	},
-	{
-		"id": "dochub",
-		"styles": [
-			"brands"
-		],
-		"label": "DocHub",
-		"terms": [],
-		"unicode": "f394"
-	},
-	{
-		"id": "docker",
-		"styles": [
-			"brands"
-		],
-		"label": "Docker",
-		"terms": [],
-		"unicode": "f395"
-	},
-	{
-		"id": "dollar-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Dollar Sign",
-		"terms": [
-			"usd",
-			"price"
-		],
-		"unicode": "f155"
-	},
-	{
-		"id": "dolly",
-		"styles": [
-			"solid"
-		],
-		"label": "Dolly",
-		"terms": [],
-		"unicode": "f472"
-	},
-	{
-		"id": "dolly-flatbed",
-		"styles": [
-			"solid"
-		],
-		"label": "Dolly Flatbed",
-		"terms": [],
-		"unicode": "f474"
-	},
-	{
-		"id": "dot-circle",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Dot Circle",
+		"label": "Dot Circle Outlined",
 		"terms": [
 			"target",
 			"bullseye",
@@ -2641,7 +2208,7 @@
 	{
 		"id": "download",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Download",
 		"terms": [
@@ -2650,36 +2217,18 @@
 		"unicode": "f019"
 	},
 	{
-		"id": "draft2digital",
-		"styles": [
-			"brands"
-		],
-		"label": "Draft2digital",
-		"terms": [],
-		"unicode": "f396"
-	},
-	{
 		"id": "dribbble",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Dribbble",
 		"terms": [],
 		"unicode": "f17d"
 	},
 	{
-		"id": "dribbble-square",
-		"styles": [
-			"brands"
-		],
-		"label": "Dribbble Square",
-		"terms": [],
-		"unicode": "f397"
-	},
-	{
 		"id": "dropbox",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Dropbox",
 		"terms": [],
@@ -2688,34 +2237,16 @@
 	{
 		"id": "drupal",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Drupal Logo",
 		"terms": [],
 		"unicode": "f1a9"
 	},
 	{
-		"id": "dyalog",
-		"styles": [
-			"brands"
-		],
-		"label": "Dyalog",
-		"terms": [],
-		"unicode": "f399"
-	},
-	{
-		"id": "earlybirds",
-		"styles": [
-			"brands"
-		],
-		"label": "Earlybirds",
-		"terms": [],
-		"unicode": "f39a"
-	},
-	{
 		"id": "edge",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Edge Browser",
 		"terms": [
@@ -2725,45 +2256,29 @@
 		"unicode": "f282"
 	},
 	{
-		"id": "edit",
+		"id": "eercast",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Edit",
-		"terms": [
-			"write",
-			"edit",
-			"update",
-			"pencil",
-			"pen"
-		],
-		"unicode": "f044"
+		"label": "Eercast",
+		"terms": [],
+		"unicode": "f2da"
 	},
 	{
 		"id": "eject",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "eject",
 		"terms": [],
 		"unicode": "f052"
 	},
 	{
-		"id": "elementor",
-		"styles": [
-			"brands"
-		],
-		"label": "Elementor",
-		"terms": [],
-		"unicode": "f430"
-	},
-	{
 		"id": "ellipsis-h",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Horizontal Ellipsis",
+		"label": "Ellipsis Horizontal",
 		"terms": [
 			"dots"
 		],
@@ -2772,37 +2287,29 @@
 	{
 		"id": "ellipsis-v",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Vertical Ellipsis",
+		"label": "Ellipsis Vertical",
 		"terms": [
 			"dots"
 		],
 		"unicode": "f142"
 	},
 	{
-		"id": "ember",
-		"styles": [
-			"brands"
-		],
-		"label": "Ember",
-		"terms": [],
-		"unicode": "f423"
-	},
-	{
 		"id": "empire",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Galactic Empire",
-		"terms": [],
+		"terms": [
+			"ge"
+		],
 		"unicode": "f1d1"
 	},
 	{
 		"id": "envelope",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Envelope",
 		"terms": [
@@ -2817,10 +2324,26 @@
 		"unicode": "f0e0"
 	},
 	{
+		"id": "envelope-o",
+		"styles": [
+			""
+		],
+		"label": "Envelope Outlined",
+		"terms": [
+			"email",
+			"e-mail",
+			"letter",
+			"support",
+			"mail",
+			"message",
+			"notification"
+		],
+		"unicode": "f003"
+	},
+	{
 		"id": "envelope-open",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Envelope Open",
 		"terms": [
@@ -2835,9 +2358,26 @@
 		"unicode": "f2b6"
 	},
 	{
+		"id": "envelope-open-o",
+		"styles": [
+			""
+		],
+		"label": "Envelope Open Outlined",
+		"terms": [
+			"email",
+			"e-mail",
+			"letter",
+			"support",
+			"mail",
+			"message",
+			"notification"
+		],
+		"unicode": "f2b7"
+	},
+	{
 		"id": "envelope-square",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Envelope Square",
 		"terms": [
@@ -2854,7 +2394,7 @@
 	{
 		"id": "envira",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Envira Gallery",
 		"terms": [
@@ -2865,7 +2405,7 @@
 	{
 		"id": "eraser",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "eraser",
 		"terms": [
@@ -2875,62 +2415,42 @@
 		"unicode": "f12d"
 	},
 	{
-		"id": "erlang",
-		"styles": [
-			"brands"
-		],
-		"label": "Erlang",
-		"terms": [],
-		"unicode": "f39d"
-	},
-	{
-		"id": "ethereum",
-		"styles": [
-			"brands"
-		],
-		"label": "Ethereum",
-		"terms": [],
-		"unicode": "f42e"
-	},
-	{
 		"id": "etsy",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Etsy",
 		"terms": [],
 		"unicode": "f2d7"
 	},
 	{
-		"id": "euro-sign",
+		"id": "eur",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Euro Sign",
+		"label": "Euro (EUR)",
 		"terms": [
-			"eur"
+			"euro"
 		],
 		"unicode": "f153"
 	},
 	{
-		"id": "exchange-alt",
+		"id": "exchange",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Exchange",
+		"label": "Exchange",
 		"terms": [
 			"transfer",
 			"arrows",
-			"arrow",
-			"exchange",
-			"swap"
+			"arrow"
 		],
-		"unicode": "f362"
+		"unicode": "f0ec"
 	},
 	{
 		"id": "exclamation",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "exclamation",
 		"terms": [
@@ -2939,15 +2459,14 @@
 			"problem",
 			"notification",
 			"notify",
-			"alert",
-			"danger"
+			"alert"
 		],
 		"unicode": "f12a"
 	},
 	{
 		"id": "exclamation-circle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Exclamation Circle",
 		"terms": [
@@ -2955,16 +2474,14 @@
 			"error",
 			"problem",
 			"notification",
-			"notify",
-			"alert",
-			"danger"
+			"alert"
 		],
 		"unicode": "f06a"
 	},
 	{
 		"id": "exclamation-triangle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Exclamation Triangle",
 		"terms": [
@@ -2972,16 +2489,14 @@
 			"error",
 			"problem",
 			"notification",
-			"notify",
-			"alert",
-			"danger"
+			"alert"
 		],
 		"unicode": "f071"
 	},
 	{
 		"id": "expand",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Expand",
 		"terms": [
@@ -2992,59 +2507,42 @@
 		"unicode": "f065"
 	},
 	{
-		"id": "expand-arrows-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Expand Arrows",
-		"terms": [
-			"enlarge",
-			"bigger",
-			"resize",
-			"move",
-			"arrows-alt"
-		],
-		"unicode": "f31e"
-	},
-	{
 		"id": "expeditedssl",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "ExpeditedSSL",
 		"terms": [],
 		"unicode": "f23e"
 	},
 	{
-		"id": "external-link-alt",
+		"id": "external-link",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate External Link",
+		"label": "External Link",
 		"terms": [
 			"open",
-			"new",
-			"external-link"
+			"new"
 		],
-		"unicode": "f35d"
+		"unicode": "f08e"
 	},
 	{
-		"id": "external-link-square-alt",
+		"id": "external-link-square",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate External Link Square",
+		"label": "External Link Square",
 		"terms": [
 			"open",
-			"new",
-			"external-link-square"
+			"new"
 		],
-		"unicode": "f360"
+		"unicode": "f14c"
 	},
 	{
 		"id": "eye",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Eye",
 		"terms": [
@@ -3055,21 +2553,9 @@
 		"unicode": "f06e"
 	},
 	{
-		"id": "eye-dropper",
-		"styles": [
-			"solid"
-		],
-		"label": "Eye Dropper",
-		"terms": [
-			"eyedropper"
-		],
-		"unicode": "f1fb"
-	},
-	{
 		"id": "eye-slash",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Eye Slash",
 		"terms": [
@@ -3083,41 +2569,39 @@
 		"unicode": "f070"
 	},
 	{
+		"id": "eyedropper",
+		"styles": [
+			""
+		],
+		"label": "Eyedropper",
+		"terms": [],
+		"unicode": "f1fb"
+	},
+	{
 		"id": "facebook",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Facebook",
 		"terms": [
-			"social network",
-			"facebook-official"
+			"facebook-f",
+			"social network"
 		],
 		"unicode": "f09a"
 	},
 	{
-		"id": "facebook-f",
+		"id": "facebook-official",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Facebook F",
-		"terms": [
-			"facebook"
-		],
-		"unicode": "f39e"
-	},
-	{
-		"id": "facebook-messenger",
-		"styles": [
-			"brands"
-		],
-		"label": "Facebook Messenger",
+		"label": "Facebook Official",
 		"terms": [],
-		"unicode": "f39f"
+		"unicode": "f230"
 	},
 	{
 		"id": "facebook-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Facebook Square",
 		"terms": [
@@ -3128,7 +2612,7 @@
 	{
 		"id": "fast-backward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "fast-backward",
 		"terms": [
@@ -3143,7 +2627,7 @@
 	{
 		"id": "fast-forward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "fast-forward",
 		"terms": [
@@ -3156,7 +2640,7 @@
 	{
 		"id": "fax",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Fax",
 		"terms": [],
@@ -3165,12 +2649,11 @@
 	{
 		"id": "female",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Female",
 		"terms": [
 			"woman",
-			"human",
 			"user",
 			"person",
 			"profile"
@@ -3180,7 +2663,7 @@
 	{
 		"id": "fighter-jet",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "fighter-jet",
 		"terms": [
@@ -3196,8 +2679,7 @@
 	{
 		"id": "file",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "File",
 		"terms": [
@@ -3209,115 +2691,154 @@
 		"unicode": "f15b"
 	},
 	{
-		"id": "file-alt",
+		"id": "file-archive-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Alternate File",
+		"label": "Archive File Outlined",
 		"terms": [
-			"new",
-			"page",
-			"pdf",
-			"document",
-			"file-text"
+			"file-zip-o"
 		],
-		"unicode": "f15c"
-	},
-	{
-		"id": "file-archive",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Archive File",
-		"terms": [],
 		"unicode": "f1c6"
 	},
 	{
-		"id": "file-audio",
+		"id": "file-audio-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Audio File",
-		"terms": [],
+		"label": "Audio File Outlined",
+		"terms": [
+			"file-sound-o"
+		],
 		"unicode": "f1c7"
 	},
 	{
-		"id": "file-code",
+		"id": "file-code-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Code File",
+		"label": "Code File Outlined",
 		"terms": [],
 		"unicode": "f1c9"
 	},
 	{
-		"id": "file-excel",
+		"id": "file-excel-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Excel File",
+		"label": "Excel File Outlined",
 		"terms": [],
 		"unicode": "f1c3"
 	},
 	{
-		"id": "file-image",
+		"id": "file-image-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Image File",
-		"terms": [],
+		"label": "Image File Outlined",
+		"terms": [
+			"file-photo-o",
+			"file-picture-o"
+		],
 		"unicode": "f1c5"
 	},
 	{
-		"id": "file-pdf",
+		"id": "file-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "PDF File",
+		"label": "File Outlined",
+		"terms": [
+			"new",
+			"page",
+			"pdf",
+			"document"
+		],
+		"unicode": "f016"
+	},
+	{
+		"id": "file-pdf-o",
+		"styles": [
+			""
+		],
+		"label": "PDF File Outlined",
 		"terms": [],
 		"unicode": "f1c1"
 	},
 	{
-		"id": "file-powerpoint",
+		"id": "file-powerpoint-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Powerpoint File",
+		"label": "Powerpoint File Outlined",
 		"terms": [],
 		"unicode": "f1c4"
 	},
 	{
-		"id": "file-video",
+		"id": "file-text",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Video File",
-		"terms": [],
+		"label": "File Text",
+		"terms": [
+			"new",
+			"page",
+			"pdf",
+			"document"
+		],
+		"unicode": "f15c"
+	},
+	{
+		"id": "file-text-o",
+		"styles": [
+			""
+		],
+		"label": "File Text Outlined",
+		"terms": [
+			"new",
+			"page",
+			"pdf",
+			"document"
+		],
+		"unicode": "f0f6"
+	},
+	{
+		"id": "file-video-o",
+		"styles": [
+			""
+		],
+		"label": "Video File Outlined",
+		"terms": [
+			"file-movie-o"
+		],
 		"unicode": "f1c8"
 	},
 	{
-		"id": "file-word",
+		"id": "file-word-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Word File",
+		"label": "Word File Outlined",
 		"terms": [],
 		"unicode": "f1c2"
 	},
 	{
+		"id": "files-o",
+		"styles": [
+			""
+		],
+		"label": "Files Outlined",
+		"terms": [
+			"copy",
+			"duplicate",
+			"clone"
+		],
+		"unicode": "f0c5"
+	},
+	{
 		"id": "film",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Film",
 		"terms": [
@@ -3328,7 +2849,7 @@
 	{
 		"id": "filter",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Filter",
 		"terms": [
@@ -3340,7 +2861,7 @@
 	{
 		"id": "fire",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "fire",
 		"terms": [
@@ -3353,7 +2874,7 @@
 	{
 		"id": "fire-extinguisher",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "fire-extinguisher",
 		"terms": [],
@@ -3362,7 +2883,7 @@
 	{
 		"id": "firefox",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Firefox",
 		"terms": [
@@ -3371,37 +2892,18 @@
 		"unicode": "f269"
 	},
 	{
-		"id": "first-aid",
-		"styles": [
-			"solid"
-		],
-		"label": "First Aid",
-		"terms": [],
-		"unicode": "f479"
-	},
-	{
 		"id": "first-order",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "First Order",
 		"terms": [],
 		"unicode": "f2b0"
 	},
 	{
-		"id": "firstdraft",
-		"styles": [
-			"brands"
-		],
-		"label": "firstdraft",
-		"terms": [],
-		"unicode": "f3a1"
-	},
-	{
 		"id": "flag",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "flag",
 		"terms": [
@@ -3414,7 +2916,7 @@
 	{
 		"id": "flag-checkered",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "flag-checkered",
 		"terms": [
@@ -3425,9 +2927,21 @@
 		"unicode": "f11e"
 	},
 	{
+		"id": "flag-o",
+		"styles": [
+			""
+		],
+		"label": "Flag Outlined",
+		"terms": [
+			"report",
+			"notification"
+		],
+		"unicode": "f11d"
+	},
+	{
 		"id": "flask",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Flask",
 		"terms": [
@@ -3441,54 +2955,63 @@
 	{
 		"id": "flickr",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Flickr",
 		"terms": [],
 		"unicode": "f16e"
 	},
 	{
-		"id": "flipboard",
+		"id": "floppy-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Flipboard",
-		"terms": [],
-		"unicode": "f44d"
-	},
-	{
-		"id": "fly",
-		"styles": [
-			"brands"
+		"label": "Floppy Outlined",
+		"terms": [
+			"save"
 		],
-		"label": "Fly",
-		"terms": [],
-		"unicode": "f417"
+		"unicode": "f0c7"
 	},
 	{
 		"id": "folder",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Folder",
 		"terms": [],
 		"unicode": "f07b"
 	},
 	{
+		"id": "folder-o",
+		"styles": [
+			""
+		],
+		"label": "Folder Outlined",
+		"terms": [],
+		"unicode": "f114"
+	},
+	{
 		"id": "folder-open",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Folder Open",
 		"terms": [],
 		"unicode": "f07c"
 	},
 	{
+		"id": "folder-open-o",
+		"styles": [
+			""
+		],
+		"label": "Folder Open Outlined",
+		"terms": [],
+		"unicode": "f115"
+	},
+	{
 		"id": "font",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "font",
 		"terms": [
@@ -3499,85 +3022,36 @@
 	{
 		"id": "font-awesome",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Font Awesome",
 		"terms": [
-			"meanpath"
+			"fa"
 		],
 		"unicode": "f2b4"
 	},
 	{
-		"id": "font-awesome-alt",
-		"styles": [
-			"brands"
-		],
-		"label": "Alternate Font Awesome",
-		"terms": [],
-		"unicode": "f35c"
-	},
-	{
-		"id": "font-awesome-flag",
-		"styles": [
-			"brands"
-		],
-		"label": "Font Awesome Flag",
-		"terms": [],
-		"unicode": "f425"
-	},
-	{
 		"id": "fonticons",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Fonticons",
 		"terms": [],
 		"unicode": "f280"
 	},
 	{
-		"id": "fonticons-fi",
-		"styles": [
-			"brands"
-		],
-		"label": "Fonticons Fi",
-		"terms": [],
-		"unicode": "f3a2"
-	},
-	{
-		"id": "football-ball",
-		"styles": [
-			"solid"
-		],
-		"label": "Football Ball",
-		"terms": [],
-		"unicode": "f44e"
-	},
-	{
 		"id": "fort-awesome",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Fort Awesome",
-		"terms": [
-			"castle"
-		],
+		"terms": [],
 		"unicode": "f286"
-	},
-	{
-		"id": "fort-awesome-alt",
-		"styles": [
-			"brands"
-		],
-		"label": "Alternate Fort Awesome",
-		"terms": [
-			"castle"
-		],
-		"unicode": "f3a3"
 	},
 	{
 		"id": "forumbee",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Forumbee",
 		"terms": [],
@@ -3586,7 +3060,7 @@
 	{
 		"id": "forward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "forward",
 		"terms": [
@@ -3598,7 +3072,7 @@
 	{
 		"id": "foursquare",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Foursquare",
 		"terms": [],
@@ -3607,28 +3081,18 @@
 	{
 		"id": "free-code-camp",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Free Code Camp",
 		"terms": [],
 		"unicode": "f2c5"
 	},
 	{
-		"id": "freebsd",
+		"id": "frown-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "FreeBSD",
-		"terms": [],
-		"unicode": "f3a4"
-	},
-	{
-		"id": "frown",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Frown",
+		"label": "Frown Outlined",
 		"terms": [
 			"face",
 			"emoticon",
@@ -3639,19 +3103,20 @@
 		"unicode": "f119"
 	},
 	{
-		"id": "futbol",
+		"id": "futbol-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Futbol",
-		"terms": [],
+		"label": "Futbol Outlined",
+		"terms": [
+			"soccer-ball-o"
+		],
 		"unicode": "f1e3"
 	},
 	{
 		"id": "gamepad",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Gamepad",
 		"terms": [
@@ -3662,33 +3127,30 @@
 	{
 		"id": "gavel",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Gavel",
 		"terms": [
+			"legal",
 			"judge",
 			"lawyer",
-			"opinion",
-			"hammer"
+			"opinion"
 		],
 		"unicode": "f0e3"
 	},
 	{
-		"id": "gem",
+		"id": "gbp",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Gem",
-		"terms": [
-			"diamond"
-		],
-		"unicode": "f3a5"
+		"label": "GBP",
+		"terms": [],
+		"unicode": "f154"
 	},
 	{
 		"id": "genderless",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Genderless",
 		"terms": [],
@@ -3697,7 +3159,7 @@
 	{
 		"id": "get-pocket",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Get Pocket",
 		"terms": [],
@@ -3706,7 +3168,7 @@
 	{
 		"id": "gg",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "GG Currency",
 		"terms": [],
@@ -3715,7 +3177,7 @@
 	{
 		"id": "gg-circle",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "GG Currency Circle",
 		"terms": [],
@@ -3724,7 +3186,7 @@
 	{
 		"id": "gift",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "gift",
 		"terms": [
@@ -3735,7 +3197,7 @@
 	{
 		"id": "git",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Git",
 		"terms": [],
@@ -3744,7 +3206,7 @@
 	{
 		"id": "git-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Git Square",
 		"terms": [],
@@ -3753,7 +3215,7 @@
 	{
 		"id": "github",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "GitHub",
 		"terms": [
@@ -3764,9 +3226,9 @@
 	{
 		"id": "github-alt",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Alternate GitHub",
+		"label": "GitHub Alt",
 		"terms": [
 			"octocat"
 		],
@@ -3775,7 +3237,7 @@
 	{
 		"id": "github-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "GitHub Square",
 		"terms": [
@@ -3784,54 +3246,33 @@
 		"unicode": "f092"
 	},
 	{
-		"id": "gitkraken",
-		"styles": [
-			"brands"
-		],
-		"label": "GitKraken",
-		"terms": [],
-		"unicode": "f3a6"
-	},
-	{
 		"id": "gitlab",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "GitLab",
-		"terms": [
-			"Axosoft"
-		],
+		"terms": [],
 		"unicode": "f296"
 	},
 	{
-		"id": "gitter",
+		"id": "glass",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Gitter",
-		"terms": [],
-		"unicode": "f426"
-	},
-	{
-		"id": "glass-martini",
-		"styles": [
-			"solid"
-		],
-		"label": "Martini Glass",
+		"label": "Glass",
 		"terms": [
 			"martini",
 			"drink",
 			"bar",
 			"alcohol",
-			"liquor",
-			"glass"
+			"liquor"
 		],
 		"unicode": "f000"
 	},
 	{
 		"id": "glide",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Glide",
 		"terms": [],
@@ -3840,7 +3281,7 @@
 	{
 		"id": "glide-g",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Glide G",
 		"terms": [],
@@ -3849,7 +3290,7 @@
 	{
 		"id": "globe",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Globe",
 		"terms": [
@@ -3866,102 +3307,45 @@
 			"localize",
 			"location",
 			"coordinates",
-			"country",
-			"gps"
+			"country"
 		],
 		"unicode": "f0ac"
 	},
 	{
-		"id": "gofore",
-		"styles": [
-			"brands"
-		],
-		"label": "Gofore",
-		"terms": [],
-		"unicode": "f3a7"
-	},
-	{
-		"id": "golf-ball",
-		"styles": [
-			"solid"
-		],
-		"label": "Golf Ball",
-		"terms": [],
-		"unicode": "f450"
-	},
-	{
-		"id": "goodreads",
-		"styles": [
-			"brands"
-		],
-		"label": "Goodreads",
-		"terms": [],
-		"unicode": "f3a8"
-	},
-	{
-		"id": "goodreads-g",
-		"styles": [
-			"brands"
-		],
-		"label": "Goodreads G",
-		"terms": [],
-		"unicode": "f3a9"
-	},
-	{
 		"id": "google",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Google Logo",
 		"terms": [],
 		"unicode": "f1a0"
 	},
 	{
-		"id": "google-drive",
-		"styles": [
-			"brands"
-		],
-		"label": "Google Drive",
-		"terms": [],
-		"unicode": "f3aa"
-	},
-	{
-		"id": "google-play",
-		"styles": [
-			"brands"
-		],
-		"label": "Google Play",
-		"terms": [],
-		"unicode": "f3ab"
-	},
-	{
 		"id": "google-plus",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Google Plus",
 		"terms": [
-			"google-plus-circle",
-			"google-plus-official"
-		],
-		"unicode": "f2b3"
-	},
-	{
-		"id": "google-plus-g",
-		"styles": [
-			"brands"
-		],
-		"label": "Google Plus G",
-		"terms": [
-			"social network",
-			"google-plus"
+			"social network"
 		],
 		"unicode": "f0d5"
 	},
 	{
+		"id": "google-plus-official",
+		"styles": [
+			""
+		],
+		"label": "Google Plus Official",
+		"terms": [
+			"google-plus-circle"
+		],
+		"unicode": "f2b3"
+	},
+	{
 		"id": "google-plus-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Google Plus Square",
 		"terms": [
@@ -3972,7 +3356,7 @@
 	{
 		"id": "google-wallet",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Google Wallet",
 		"terms": [],
@@ -3981,10 +3365,11 @@
 	{
 		"id": "graduation-cap",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Graduation Cap",
 		"terms": [
+			"mortar-board",
 			"learning",
 			"school",
 			"student"
@@ -3994,10 +3379,11 @@
 	{
 		"id": "gratipay",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Gratipay (Gittip)",
 		"terms": [
+			"gittip",
 			"heart",
 			"like",
 			"favorite",
@@ -4008,43 +3394,16 @@
 	{
 		"id": "grav",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Grav",
 		"terms": [],
 		"unicode": "f2d6"
 	},
 	{
-		"id": "gripfire",
-		"styles": [
-			"brands"
-		],
-		"label": "Gripfire, Inc.",
-		"terms": [],
-		"unicode": "f3ac"
-	},
-	{
-		"id": "grunt",
-		"styles": [
-			"brands"
-		],
-		"label": "Grunt",
-		"terms": [],
-		"unicode": "f3ad"
-	},
-	{
-		"id": "gulp",
-		"styles": [
-			"brands"
-		],
-		"label": "Gulp",
-		"terms": [],
-		"unicode": "f3ae"
-	},
-	{
 		"id": "h-square",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "H Square",
 		"terms": [
@@ -4056,181 +3415,159 @@
 	{
 		"id": "hacker-news",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Hacker News",
-		"terms": [],
+		"terms": [
+			"y-combinator-square",
+			"yc-square"
+		],
 		"unicode": "f1d4"
 	},
 	{
-		"id": "hacker-news-square",
+		"id": "hand-lizard-o",
 		"styles": [
-			"brands"
-		],
-		"label": "Hacker News Square",
-		"terms": [],
-		"unicode": "f3af"
-	},
-	{
-		"id": "hand-lizard",
-		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Lizard (Hand)",
 		"terms": [],
 		"unicode": "f258"
 	},
 	{
-		"id": "hand-paper",
+		"id": "hand-o-down",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Paper (Hand)",
-		"terms": [
-			"stop"
-		],
-		"unicode": "f256"
-	},
-	{
-		"id": "hand-peace",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Peace (Hand)",
-		"terms": [],
-		"unicode": "f25b"
-	},
-	{
-		"id": "hand-point-down",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Hand Pointing Down",
+		"label": "Hand Outlined Down",
 		"terms": [
 			"point",
-			"finger",
-			"hand-o-down"
+			"finger"
 		],
 		"unicode": "f0a7"
 	},
 	{
-		"id": "hand-point-left",
+		"id": "hand-o-left",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Hand Pointing Left",
+		"label": "Hand Outlined Left",
 		"terms": [
 			"point",
 			"left",
 			"previous",
 			"back",
-			"finger",
-			"hand-o-left"
+			"finger"
 		],
 		"unicode": "f0a5"
 	},
 	{
-		"id": "hand-point-right",
+		"id": "hand-o-right",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Hand Pointing Right",
+		"label": "Hand Outlined Right",
 		"terms": [
 			"point",
 			"right",
 			"next",
 			"forward",
-			"finger",
-			"hand-o-right"
+			"finger"
 		],
 		"unicode": "f0a4"
 	},
 	{
-		"id": "hand-point-up",
+		"id": "hand-o-up",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Hand Pointing Up",
+		"label": "Hand Outlined Up",
 		"terms": [
 			"point",
-			"finger",
-			"hand-o-up"
+			"finger"
 		],
 		"unicode": "f0a6"
 	},
 	{
-		"id": "hand-pointer",
+		"id": "hand-paper-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Pointer (Hand)",
+		"label": "Paper (Hand)",
 		"terms": [
-			"select"
+			"hand-stop-o",
+			"stop"
 		],
+		"unicode": "f256"
+	},
+	{
+		"id": "hand-peace-o",
+		"styles": [
+			""
+		],
+		"label": "Hand Peace",
+		"terms": [],
+		"unicode": "f25b"
+	},
+	{
+		"id": "hand-pointer-o",
+		"styles": [
+			""
+		],
+		"label": "Hand Pointer",
+		"terms": [],
 		"unicode": "f25a"
 	},
 	{
-		"id": "hand-rock",
+		"id": "hand-rock-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Rock (Hand)",
-		"terms": [],
+		"terms": [
+			"hand-grab-o"
+		],
 		"unicode": "f255"
 	},
 	{
-		"id": "hand-scissors",
+		"id": "hand-scissors-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Scissors (Hand)",
 		"terms": [],
 		"unicode": "f257"
 	},
 	{
-		"id": "hand-spock",
+		"id": "hand-spock-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Spock (Hand)",
 		"terms": [],
 		"unicode": "f259"
 	},
 	{
-		"id": "handshake",
+		"id": "handshake-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Handshake",
+		"label": "Handshake Outlined",
 		"terms": [],
 		"unicode": "f2b5"
 	},
 	{
 		"id": "hashtag",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Hashtag",
 		"terms": [],
 		"unicode": "f292"
 	},
 	{
-		"id": "hdd",
+		"id": "hdd-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "HDD",
 		"terms": [
@@ -4242,20 +3579,20 @@
 		"unicode": "f0a0"
 	},
 	{
-		"id": "heading",
+		"id": "header",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "heading",
+		"label": "header",
 		"terms": [
-			"header"
+			"heading"
 		],
 		"unicode": "f1dc"
 	},
 	{
 		"id": "headphones",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "headphones",
 		"terms": [
@@ -4269,8 +3606,7 @@
 	{
 		"id": "heart",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Heart",
 		"terms": [
@@ -4281,57 +3617,42 @@
 		"unicode": "f004"
 	},
 	{
+		"id": "heart-o",
+		"styles": [
+			""
+		],
+		"label": "Heart Outlined",
+		"terms": [
+			"love",
+			"like",
+			"favorite"
+		],
+		"unicode": "f08a"
+	},
+	{
 		"id": "heartbeat",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Heartbeat",
 		"terms": [
-			"ekg",
-			"vital signs"
+			"ekg"
 		],
 		"unicode": "f21e"
 	},
 	{
-		"id": "hips",
-		"styles": [
-			"brands"
-		],
-		"label": "Hips",
-		"terms": [],
-		"unicode": "f452"
-	},
-	{
-		"id": "hire-a-helper",
-		"styles": [
-			"brands"
-		],
-		"label": "HireAHelper",
-		"terms": [],
-		"unicode": "f3b0"
-	},
-	{
 		"id": "history",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "History",
 		"terms": [],
 		"unicode": "f1da"
 	},
 	{
-		"id": "hockey-puck",
-		"styles": [
-			"solid"
-		],
-		"label": "Hockey Puck",
-		"terms": [],
-		"unicode": "f453"
-	},
-	{
 		"id": "home",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "home",
 		"terms": [
@@ -4341,51 +3662,20 @@
 		"unicode": "f015"
 	},
 	{
-		"id": "hooli",
+		"id": "hospital-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Hooli",
-		"terms": [],
-		"unicode": "f427"
-	},
-	{
-		"id": "hospital",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "hospital",
+		"label": "hospital Outlined",
 		"terms": [
-			"building",
-			"medical center",
-			"emergency room"
+			"building"
 		],
 		"unicode": "f0f8"
 	},
 	{
-		"id": "hospital-symbol",
-		"styles": [
-			"solid"
-		],
-		"label": "Hospital Symbol",
-		"terms": [],
-		"unicode": "f47e"
-	},
-	{
-		"id": "hotjar",
-		"styles": [
-			"brands"
-		],
-		"label": "Hotjar",
-		"terms": [],
-		"unicode": "f3b1"
-	},
-	{
 		"id": "hourglass",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Hourglass",
 		"terms": [],
@@ -4394,34 +3684,49 @@
 	{
 		"id": "hourglass-end",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Hourglass End",
-		"terms": [],
+		"terms": [
+			"hourglass-3"
+		],
 		"unicode": "f253"
 	},
 	{
 		"id": "hourglass-half",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Hourglass Half",
-		"terms": [],
+		"terms": [
+			"hourglass-2"
+		],
 		"unicode": "f252"
+	},
+	{
+		"id": "hourglass-o",
+		"styles": [
+			""
+		],
+		"label": "Hourglass Outlined",
+		"terms": [],
+		"unicode": "f250"
 	},
 	{
 		"id": "hourglass-start",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Hourglass Start",
-		"terms": [],
+		"terms": [
+			"hourglass-1"
+		],
 		"unicode": "f251"
 	},
 	{
 		"id": "houzz",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Houzz",
 		"terms": [],
@@ -4430,25 +3735,16 @@
 	{
 		"id": "html5",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "HTML 5 Logo",
 		"terms": [],
 		"unicode": "f13b"
 	},
 	{
-		"id": "hubspot",
-		"styles": [
-			"brands"
-		],
-		"label": "HubSpot",
-		"terms": [],
-		"unicode": "f3b2"
-	},
-	{
 		"id": "i-cursor",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "I Beam Cursor",
 		"terms": [],
@@ -4457,8 +3753,7 @@
 	{
 		"id": "id-badge",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Identification Badge",
 		"terms": [],
@@ -4467,45 +3762,41 @@
 	{
 		"id": "id-card",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Identification Card",
-		"terms": [],
+		"terms": [
+			"drivers-license"
+		],
 		"unicode": "f2c2"
 	},
 	{
-		"id": "image",
+		"id": "id-card-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Image",
+		"label": "Identification Card Outlined",
 		"terms": [
-			"photo",
-			"album",
-			"picture"
+			"drivers-license-o"
 		],
-		"unicode": "f03e"
+		"unicode": "f2c3"
 	},
 	{
-		"id": "images",
+		"id": "ils",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Images",
+		"label": "Shekel (ILS)",
 		"terms": [
-			"photo",
-			"album",
-			"picture"
+			"shekel",
+			"sheqel"
 		],
-		"unicode": "f302"
+		"unicode": "f20b"
 	},
 	{
 		"id": "imdb",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "IMDB",
 		"terms": [],
@@ -4514,7 +3805,7 @@
 	{
 		"id": "inbox",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "inbox",
 		"terms": [],
@@ -4523,7 +3814,7 @@
 	{
 		"id": "indent",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Indent",
 		"terms": [],
@@ -4532,7 +3823,7 @@
 	{
 		"id": "industry",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Industry",
 		"terms": [
@@ -4543,7 +3834,7 @@
 	{
 		"id": "info",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Info",
 		"terms": [
@@ -4557,7 +3848,7 @@
 	{
 		"id": "info-circle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Info Circle",
 		"terms": [
@@ -4569,9 +3860,20 @@
 		"unicode": "f05a"
 	},
 	{
+		"id": "inr",
+		"styles": [
+			""
+		],
+		"label": "Indian Rupee (INR)",
+		"terms": [
+			"rupee"
+		],
+		"unicode": "f156"
+	},
+	{
 		"id": "instagram",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Instagram",
 		"terms": [],
@@ -4580,7 +3882,7 @@
 	{
 		"id": "internet-explorer",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Internet-explorer",
 		"terms": [
@@ -4592,7 +3894,7 @@
 	{
 		"id": "ioxhost",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "ioxhost",
 		"terms": [],
@@ -4601,7 +3903,7 @@
 	{
 		"id": "italic",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "italic",
 		"terms": [
@@ -4610,72 +3912,31 @@
 		"unicode": "f033"
 	},
 	{
-		"id": "itunes",
-		"styles": [
-			"brands"
-		],
-		"label": "iTunes",
-		"terms": [],
-		"unicode": "f3b4"
-	},
-	{
-		"id": "itunes-note",
-		"styles": [
-			"brands"
-		],
-		"label": "Itunes Note",
-		"terms": [],
-		"unicode": "f3b5"
-	},
-	{
-		"id": "jenkins",
-		"styles": [
-			"brands"
-		],
-		"label": "Jenkis",
-		"terms": [],
-		"unicode": "f3b6"
-	},
-	{
-		"id": "joget",
-		"styles": [
-			"brands"
-		],
-		"label": "Joget",
-		"terms": [],
-		"unicode": "f3b7"
-	},
-	{
 		"id": "joomla",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Joomla Logo",
 		"terms": [],
 		"unicode": "f1aa"
 	},
 	{
-		"id": "js",
+		"id": "jpy",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "JavaScript (JS)",
-		"terms": [],
-		"unicode": "f3b8"
-	},
-	{
-		"id": "js-square",
-		"styles": [
-			"brands"
+		"label": "Japanese Yen (JPY)",
+		"terms": [
+			"cny",
+			"rmb",
+			"yen"
 		],
-		"label": "JavaScript (JS) Square",
-		"terms": [],
-		"unicode": "f3b9"
+		"unicode": "f157"
 	},
 	{
 		"id": "jsfiddle",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "jsFiddle",
 		"terms": [],
@@ -4684,7 +3945,7 @@
 	{
 		"id": "key",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "key",
 		"terms": [
@@ -4694,12 +3955,11 @@
 		"unicode": "f084"
 	},
 	{
-		"id": "keyboard",
+		"id": "keyboard-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Keyboard",
+		"label": "Keyboard Outlined",
 		"terms": [
 			"type",
 			"input"
@@ -4707,45 +3967,20 @@
 		"unicode": "f11c"
 	},
 	{
-		"id": "keycdn",
+		"id": "krw",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "KeyCDN",
-		"terms": [],
-		"unicode": "f3ba"
-	},
-	{
-		"id": "kickstarter",
-		"styles": [
-			"brands"
+		"label": "Korean Won (KRW)",
+		"terms": [
+			"won"
 		],
-		"label": "Kickstarter",
-		"terms": [],
-		"unicode": "f3bb"
-	},
-	{
-		"id": "kickstarter-k",
-		"styles": [
-			"brands"
-		],
-		"label": "Kickstarter K",
-		"terms": [],
-		"unicode": "f3bc"
-	},
-	{
-		"id": "korvue",
-		"styles": [
-			"brands"
-		],
-		"label": "KORVUE",
-		"terms": [],
-		"unicode": "f42f"
+		"unicode": "f159"
 	},
 	{
 		"id": "language",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Language",
 		"terms": [],
@@ -4754,30 +3989,20 @@
 	{
 		"id": "laptop",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Laptop",
 		"terms": [
 			"demo",
 			"computer",
-			"device",
-			"pc"
+			"device"
 		],
 		"unicode": "f109"
 	},
 	{
-		"id": "laravel",
-		"styles": [
-			"brands"
-		],
-		"label": "Laravel",
-		"terms": [],
-		"unicode": "f3bd"
-	},
-	{
 		"id": "lastfm",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "last.fm",
 		"terms": [],
@@ -4786,7 +4011,7 @@
 	{
 		"id": "lastfm-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "last.fm Square",
 		"terms": [],
@@ -4795,7 +4020,7 @@
 	{
 		"id": "leaf",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "leaf",
 		"terms": [
@@ -4808,74 +4033,64 @@
 	{
 		"id": "leanpub",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Leanpub",
 		"terms": [],
 		"unicode": "f212"
 	},
 	{
-		"id": "lemon",
+		"id": "lemon-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Lemon",
+		"label": "Lemon Outlined",
 		"terms": [
 			"food"
 		],
 		"unicode": "f094"
 	},
 	{
-		"id": "less",
+		"id": "level-down",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Less",
-		"terms": [],
-		"unicode": "f41d"
+		"label": "Level Down",
+		"terms": [
+			"arrow"
+		],
+		"unicode": "f149"
 	},
 	{
-		"id": "level-down-alt",
+		"id": "level-up",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Level Down Alternate",
+		"label": "Level Up",
 		"terms": [
-			"level-down"
+			"arrow"
 		],
-		"unicode": "f3be"
-	},
-	{
-		"id": "level-up-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Level Up Alternate",
-		"terms": [
-			"level-up"
-		],
-		"unicode": "f3bf"
+		"unicode": "f148"
 	},
 	{
 		"id": "life-ring",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Life Ring",
 		"terms": [
+			"life-buoy",
+			"life-saver",
 			"support"
 		],
 		"unicode": "f1cd"
 	},
 	{
-		"id": "lightbulb",
+		"id": "lightbulb-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Lightbulb",
+		"label": "Lightbulb Outlined",
 		"terms": [
 			"idea",
 			"inspiration"
@@ -4883,18 +4098,21 @@
 		"unicode": "f0eb"
 	},
 	{
-		"id": "line",
+		"id": "line-chart",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Line",
-		"terms": [],
-		"unicode": "f3c0"
+		"label": "Line Chart",
+		"terms": [
+			"graph",
+			"analytics"
+		],
+		"unicode": "f201"
 	},
 	{
 		"id": "link",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Link",
 		"terms": [
@@ -4905,29 +4123,25 @@
 	{
 		"id": "linkedin",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "LinkedIn",
-		"terms": [
-			"linkedin-square"
-		],
-		"unicode": "f08c"
+		"terms": [],
+		"unicode": "f0e1"
 	},
 	{
-		"id": "linkedin-in",
+		"id": "linkedin-square",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "LinkedIn In",
-		"terms": [
-			"linkedin"
-		],
-		"unicode": "f0e1"
+		"label": "LinkedIn Square",
+		"terms": [],
+		"unicode": "f08c"
 	},
 	{
 		"id": "linode",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Linode",
 		"terms": [],
@@ -4936,7 +4150,7 @@
 	{
 		"id": "linux",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Linux",
 		"terms": [
@@ -4945,23 +4159,11 @@
 		"unicode": "f17c"
 	},
 	{
-		"id": "lira-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Turkish Lira Sign",
-		"terms": [
-			"try",
-			"turkish"
-		],
-		"unicode": "f195"
-	},
-	{
 		"id": "list",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "List",
+		"label": "list",
 		"terms": [
 			"ul",
 			"ol",
@@ -4976,10 +4178,9 @@
 	{
 		"id": "list-alt",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "List Alternate",
+		"label": "list-alt",
 		"terms": [
 			"ul",
 			"ol",
@@ -4994,7 +4195,7 @@
 	{
 		"id": "list-ol",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "list-ol",
 		"terms": [
@@ -5010,7 +4211,7 @@
 	{
 		"id": "list-ul",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "list-ul",
 		"terms": [
@@ -5025,7 +4226,7 @@
 	{
 		"id": "location-arrow",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "location-arrow",
 		"terms": [
@@ -5034,15 +4235,14 @@
 			"location",
 			"address",
 			"place",
-			"where",
-			"gps"
+			"where"
 		],
 		"unicode": "f124"
 	},
 	{
 		"id": "lock",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "lock",
 		"terms": [
@@ -5053,97 +4253,57 @@
 		"unicode": "f023"
 	},
 	{
-		"id": "lock-open",
+		"id": "long-arrow-down",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Lock Open",
-		"terms": [
-			"protect",
-			"admin",
-			"password",
-			"lock",
-			"open"
-		],
-		"unicode": "f3c1"
+		"label": "Long Arrow Down",
+		"terms": [],
+		"unicode": "f175"
 	},
 	{
-		"id": "long-arrow-alt-down",
+		"id": "long-arrow-left",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Long Arrow Down",
-		"terms": [
-			"long-arrow-down"
-		],
-		"unicode": "f309"
-	},
-	{
-		"id": "long-arrow-alt-left",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Long Arrow Left",
+		"label": "Long Arrow Left",
 		"terms": [
 			"previous",
-			"back",
-			"long-arrow-left"
+			"back"
 		],
-		"unicode": "f30a"
+		"unicode": "f177"
 	},
 	{
-		"id": "long-arrow-alt-right",
+		"id": "long-arrow-right",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Long Arrow Right",
-		"terms": [
-			"long-arrow-right"
-		],
-		"unicode": "f30b"
+		"label": "Long Arrow Right",
+		"terms": [],
+		"unicode": "f178"
 	},
 	{
-		"id": "long-arrow-alt-up",
+		"id": "long-arrow-up",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Long Arrow Up",
-		"terms": [
-			"long-arrow-up"
-		],
-		"unicode": "f30c"
+		"label": "Long Arrow Up",
+		"terms": [],
+		"unicode": "f176"
 	},
 	{
 		"id": "low-vision",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Low Vision",
 		"terms": [],
 		"unicode": "f2a8"
 	},
 	{
-		"id": "lyft",
-		"styles": [
-			"brands"
-		],
-		"label": "lyft",
-		"terms": [],
-		"unicode": "f3c3"
-	},
-	{
-		"id": "magento",
-		"styles": [
-			"brands"
-		],
-		"label": "Magento",
-		"terms": [],
-		"unicode": "f3c4"
-	},
-	{
 		"id": "magic",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "magic",
 		"terms": [
@@ -5156,7 +4316,7 @@
 	{
 		"id": "magnet",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "magnet",
 		"terms": [],
@@ -5165,12 +4325,11 @@
 	{
 		"id": "male",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Male",
 		"terms": [
 			"man",
-			"human",
 			"user",
 			"person",
 			"profile"
@@ -5180,8 +4339,7 @@
 	{
 		"id": "map",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Map",
 		"terms": [],
@@ -5190,7 +4348,7 @@
 	{
 		"id": "map-marker",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "map-marker",
 		"terms": [
@@ -5202,27 +4360,23 @@
 			"address",
 			"travel",
 			"where",
-			"place",
-			"gps"
+			"place"
 		],
 		"unicode": "f041"
 	},
 	{
-		"id": "map-marker-alt",
+		"id": "map-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Map Marker Alternate",
-		"terms": [
-			"map-marker",
-			"gps"
-		],
-		"unicode": "f3c5"
+		"label": "Map Outlined",
+		"terms": [],
+		"unicode": "f278"
 	},
 	{
 		"id": "map-pin",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Map Pin",
 		"terms": [],
@@ -5231,7 +4385,7 @@
 	{
 		"id": "map-signs",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Map Signs",
 		"terms": [],
@@ -5240,7 +4394,7 @@
 	{
 		"id": "mars",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mars",
 		"terms": [
@@ -5251,7 +4405,7 @@
 	{
 		"id": "mars-double",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mars Double",
 		"terms": [],
@@ -5260,7 +4414,7 @@
 	{
 		"id": "mars-stroke",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mars Stroke",
 		"terms": [],
@@ -5269,7 +4423,7 @@
 	{
 		"id": "mars-stroke-h",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mars Stroke Horizontal",
 		"terms": [],
@@ -5278,7 +4432,7 @@
 	{
 		"id": "mars-stroke-v",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mars Stroke Vertical",
 		"terms": [],
@@ -5287,43 +4441,34 @@
 	{
 		"id": "maxcdn",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "MaxCDN",
 		"terms": [],
 		"unicode": "f136"
 	},
 	{
-		"id": "medapps",
+		"id": "meanpath",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "MedApps",
+		"label": "meanpath",
 		"terms": [],
-		"unicode": "f3c6"
+		"unicode": "f20c"
 	},
 	{
 		"id": "medium",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Medium",
 		"terms": [],
 		"unicode": "f23a"
 	},
 	{
-		"id": "medium-m",
-		"styles": [
-			"brands"
-		],
-		"label": "Medium M",
-		"terms": [],
-		"unicode": "f3c7"
-	},
-	{
 		"id": "medkit",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "medkit",
 		"terms": [
@@ -5336,30 +4481,20 @@
 		"unicode": "f0fa"
 	},
 	{
-		"id": "medrt",
-		"styles": [
-			"brands"
-		],
-		"label": "MRT",
-		"terms": [],
-		"unicode": "f3c8"
-	},
-	{
 		"id": "meetup",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Meetup",
 		"terms": [],
 		"unicode": "f2e0"
 	},
 	{
-		"id": "meh",
+		"id": "meh-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Meh",
+		"label": "Meh Outlined",
 		"terms": [
 			"face",
 			"emoticon",
@@ -5371,7 +4506,7 @@
 	{
 		"id": "mercury",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mercury",
 		"terms": [
@@ -5382,7 +4517,7 @@
 	{
 		"id": "microchip",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Microchip",
 		"terms": [],
@@ -5391,7 +4526,7 @@
 	{
 		"id": "microphone",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "microphone",
 		"terms": [
@@ -5404,7 +4539,7 @@
 	{
 		"id": "microphone-slash",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Microphone Slash",
 		"terms": [
@@ -5416,18 +4551,9 @@
 		"unicode": "f131"
 	},
 	{
-		"id": "microsoft",
-		"styles": [
-			"brands"
-		],
-		"label": "Microsoft",
-		"terms": [],
-		"unicode": "f3ca"
-	},
-	{
 		"id": "minus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "minus",
 		"terms": [
@@ -5443,7 +4569,7 @@
 	{
 		"id": "minus-circle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Minus Circle",
 		"terms": [
@@ -5457,8 +4583,7 @@
 	{
 		"id": "minus-square",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Minus Square",
 		"terms": [
@@ -5472,39 +4597,38 @@
 		"unicode": "f146"
 	},
 	{
-		"id": "mix",
+		"id": "minus-square-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Mix",
-		"terms": [],
-		"unicode": "f3cb"
+		"label": "Minus Square Outlined",
+		"terms": [
+			"hide",
+			"minify",
+			"delete",
+			"remove",
+			"trash",
+			"collapse"
+		],
+		"unicode": "f147"
 	},
 	{
 		"id": "mixcloud",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Mixcloud",
 		"terms": [],
 		"unicode": "f289"
 	},
 	{
-		"id": "mizuni",
-		"styles": [
-			"brands"
-		],
-		"label": "Mizuni",
-		"terms": [],
-		"unicode": "f3cc"
-	},
-	{
 		"id": "mobile",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mobile Phone",
 		"terms": [
+			"mobile-phone",
 			"cell phone",
 			"cellphone",
 			"text",
@@ -5516,59 +4640,36 @@
 		"unicode": "f10b"
 	},
 	{
-		"id": "mobile-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Mobile",
-		"terms": [
-			"mobile"
-		],
-		"unicode": "f3cd"
-	},
-	{
 		"id": "modx",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "MODX",
 		"terms": [],
 		"unicode": "f285"
 	},
 	{
-		"id": "monero",
+		"id": "money",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Monero",
-		"terms": [],
-		"unicode": "f3d0"
-	},
-	{
-		"id": "money-bill-alt",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Money Bill Alternate",
+		"label": "Money",
 		"terms": [
 			"cash",
 			"money",
 			"buy",
 			"checkout",
 			"purchase",
-			"payment",
-			"price"
+			"payment"
 		],
-		"unicode": "f3d1"
+		"unicode": "f0d6"
 	},
 	{
-		"id": "moon",
+		"id": "moon-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Moon",
+		"label": "Moon Outlined",
 		"terms": [
 			"night",
 			"darker",
@@ -5579,7 +4680,7 @@
 	{
 		"id": "motorcycle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Motorcycle",
 		"terms": [
@@ -5591,18 +4692,16 @@
 	{
 		"id": "mouse-pointer",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Mouse Pointer",
-		"terms": [
-			"select"
-		],
+		"terms": [],
 		"unicode": "f245"
 	},
 	{
 		"id": "music",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Music",
 		"terms": [
@@ -5612,118 +4711,47 @@
 		"unicode": "f001"
 	},
 	{
-		"id": "napster",
-		"styles": [
-			"brands"
-		],
-		"label": "Napster",
-		"terms": [],
-		"unicode": "f3d2"
-	},
-	{
 		"id": "neuter",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Neuter",
 		"terms": [],
 		"unicode": "f22c"
 	},
 	{
-		"id": "newspaper",
+		"id": "newspaper-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Newspaper",
+		"label": "Newspaper Outlined",
 		"terms": [
-			"press",
-			"article"
+			"press"
 		],
 		"unicode": "f1ea"
 	},
 	{
-		"id": "nintendo-switch",
-		"styles": [
-			"brands"
-		],
-		"label": "Nintendo Switch",
-		"terms": [],
-		"unicode": "f418"
-	},
-	{
-		"id": "node",
-		"styles": [
-			"brands"
-		],
-		"label": "Node.js",
-		"terms": [],
-		"unicode": "f419"
-	},
-	{
-		"id": "node-js",
-		"styles": [
-			"brands"
-		],
-		"label": "Node.js JS",
-		"terms": [],
-		"unicode": "f3d3"
-	},
-	{
-		"id": "npm",
-		"styles": [
-			"brands"
-		],
-		"label": "npm",
-		"terms": [],
-		"unicode": "f3d4"
-	},
-	{
-		"id": "ns8",
-		"styles": [
-			"brands"
-		],
-		"label": "NS8",
-		"terms": [],
-		"unicode": "f3d5"
-	},
-	{
-		"id": "nutritionix",
-		"styles": [
-			"brands"
-		],
-		"label": "Nutritionix",
-		"terms": [],
-		"unicode": "f3d6"
-	},
-	{
 		"id": "object-group",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Object Group",
-		"terms": [
-			"design"
-		],
+		"terms": [],
 		"unicode": "f247"
 	},
 	{
 		"id": "object-ungroup",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Object Ungroup",
-		"terms": [
-			"design"
-		],
+		"terms": [],
 		"unicode": "f248"
 	},
 	{
 		"id": "odnoklassniki",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Odnoklassniki",
 		"terms": [],
@@ -5732,7 +4760,7 @@
 	{
 		"id": "odnoklassniki-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Odnoklassniki Square",
 		"terms": [],
@@ -5741,7 +4769,7 @@
 	{
 		"id": "opencart",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "OpenCart",
 		"terms": [],
@@ -5750,7 +4778,7 @@
 	{
 		"id": "openid",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "OpenID",
 		"terms": [],
@@ -5759,7 +4787,7 @@
 	{
 		"id": "opera",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Opera",
 		"terms": [],
@@ -5768,43 +4796,27 @@
 	{
 		"id": "optin-monster",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Optin Monster",
 		"terms": [],
 		"unicode": "f23c"
 	},
 	{
-		"id": "osi",
-		"styles": [
-			"brands"
-		],
-		"label": "Open Source Initiative",
-		"terms": [],
-		"unicode": "f41a"
-	},
-	{
 		"id": "outdent",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Outdent",
-		"terms": [],
-		"unicode": "f03b"
-	},
-	{
-		"id": "page4",
-		"styles": [
-			"brands"
+		"terms": [
+			"dedent"
 		],
-		"label": "page4 Corporation",
-		"terms": [],
-		"unicode": "f3d7"
+		"unicode": "f03b"
 	},
 	{
 		"id": "pagelines",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pagelines",
 		"terms": [
@@ -5820,44 +4832,38 @@
 	{
 		"id": "paint-brush",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Paint Brush",
 		"terms": [],
 		"unicode": "f1fc"
 	},
 	{
-		"id": "palfed",
-		"styles": [
-			"brands"
-		],
-		"label": "Palfed",
-		"terms": [],
-		"unicode": "f3d8"
-	},
-	{
-		"id": "pallet",
-		"styles": [
-			"solid"
-		],
-		"label": "Pallet",
-		"terms": [],
-		"unicode": "f482"
-	},
-	{
 		"id": "paper-plane",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Paper Plane",
-		"terms": [],
+		"terms": [
+			"send"
+		],
 		"unicode": "f1d8"
+	},
+	{
+		"id": "paper-plane-o",
+		"styles": [
+			""
+		],
+		"label": "Paper Plane Outlined",
+		"terms": [
+			"send-o"
+		],
+		"unicode": "f1d9"
 	},
 	{
 		"id": "paperclip",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Paperclip",
 		"terms": [
@@ -5868,37 +4874,16 @@
 	{
 		"id": "paragraph",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "paragraph",
 		"terms": [],
 		"unicode": "f1dd"
 	},
 	{
-		"id": "paste",
-		"styles": [
-			"solid"
-		],
-		"label": "Paste",
-		"terms": [
-			"copy",
-			"clipboard"
-		],
-		"unicode": "f0ea"
-	},
-	{
-		"id": "patreon",
-		"styles": [
-			"brands"
-		],
-		"label": "Patreon",
-		"terms": [],
-		"unicode": "f3d9"
-	},
-	{
 		"id": "pause",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "pause",
 		"terms": [
@@ -5909,17 +4894,25 @@
 	{
 		"id": "pause-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Pause Circle",
 		"terms": [],
 		"unicode": "f28b"
 	},
 	{
+		"id": "pause-circle-o",
+		"styles": [
+			""
+		],
+		"label": "Pause Circle Outlined",
+		"terms": [],
+		"unicode": "f28c"
+	},
+	{
 		"id": "paw",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Paw",
 		"terms": [
@@ -5930,81 +4923,64 @@
 	{
 		"id": "paypal",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Paypal",
 		"terms": [],
 		"unicode": "f1ed"
 	},
 	{
-		"id": "pen-square",
+		"id": "pencil",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Pen Square",
+		"label": "pencil",
 		"terms": [
 			"write",
 			"edit",
-			"update",
-			"pencil-square"
+			"update"
+		],
+		"unicode": "f040"
+	},
+	{
+		"id": "pencil-square",
+		"styles": [
+			""
+		],
+		"label": "Pencil Square",
+		"terms": [
+			"write",
+			"edit",
+			"update"
 		],
 		"unicode": "f14b"
 	},
 	{
-		"id": "pencil-alt",
+		"id": "pencil-square-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Pencil",
+		"label": "Pencil Square Outlined",
 		"terms": [
-			"write",
 			"edit",
-			"update",
-			"pencil",
-			"design"
+			"write",
+			"update"
 		],
-		"unicode": "f303"
+		"unicode": "f044"
 	},
 	{
 		"id": "percent",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Percent",
 		"terms": [],
 		"unicode": "f295"
 	},
 	{
-		"id": "periscope",
-		"styles": [
-			"brands"
-		],
-		"label": "Periscope",
-		"terms": [],
-		"unicode": "f3da"
-	},
-	{
-		"id": "phabricator",
-		"styles": [
-			"brands"
-		],
-		"label": "Phabricator",
-		"terms": [],
-		"unicode": "f3db"
-	},
-	{
-		"id": "phoenix-framework",
-		"styles": [
-			"brands"
-		],
-		"label": "Phoenix Framework",
-		"terms": [],
-		"unicode": "f3dc"
-	},
-	{
 		"id": "phone",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Phone",
 		"terms": [
@@ -6020,7 +4996,7 @@
 	{
 		"id": "phone-square",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Phone Square",
 		"terms": [
@@ -6033,30 +5009,33 @@
 		"unicode": "f098"
 	},
 	{
-		"id": "phone-volume",
+		"id": "picture-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Phone Volume",
+		"label": "Picture Outlined",
 		"terms": [
-			"telephone",
-			"volume-control-phone"
+			"photo",
+			"image"
 		],
-		"unicode": "f2a0"
+		"unicode": "f03e"
 	},
 	{
-		"id": "php",
+		"id": "pie-chart",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "PHP",
-		"terms": [],
-		"unicode": "f457"
+		"label": "Pie Chart",
+		"terms": [
+			"graph",
+			"analytics"
+		],
+		"unicode": "f200"
 	},
 	{
 		"id": "pied-piper",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pied Piper Logo",
 		"terms": [],
@@ -6065,37 +5044,25 @@
 	{
 		"id": "pied-piper-alt",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Alternate Pied Piper Logo",
+		"label": "Pied Piper Alternate Logo",
 		"terms": [],
 		"unicode": "f1a8"
 	},
 	{
 		"id": "pied-piper-pp",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pied Piper PP Logo (Old)",
 		"terms": [],
 		"unicode": "f1a7"
 	},
 	{
-		"id": "pills",
-		"styles": [
-			"solid"
-		],
-		"label": "Pills",
-		"terms": [
-			"medicine",
-			"drugs"
-		],
-		"unicode": "f484"
-	},
-	{
 		"id": "pinterest",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pinterest",
 		"terms": [],
@@ -6104,7 +5071,7 @@
 	{
 		"id": "pinterest-p",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pinterest P",
 		"terms": [],
@@ -6113,7 +5080,7 @@
 	{
 		"id": "pinterest-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Pinterest Square",
 		"terms": [],
@@ -6122,7 +5089,7 @@
 	{
 		"id": "plane",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "plane",
 		"terms": [
@@ -6139,7 +5106,7 @@
 	{
 		"id": "play",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "play",
 		"terms": [
@@ -6153,8 +5120,7 @@
 	{
 		"id": "play-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Play Circle",
 		"terms": [
@@ -6164,18 +5130,18 @@
 		"unicode": "f144"
 	},
 	{
-		"id": "playstation",
+		"id": "play-circle-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "PlayStation",
+		"label": "Play Circle Outlined",
 		"terms": [],
-		"unicode": "f3df"
+		"unicode": "f01d"
 	},
 	{
 		"id": "plug",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Plug",
 		"terms": [
@@ -6187,7 +5153,7 @@
 	{
 		"id": "plus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "plus",
 		"terms": [
@@ -6201,7 +5167,7 @@
 	{
 		"id": "plus-circle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Plus Circle",
 		"terms": [
@@ -6215,8 +5181,7 @@
 	{
 		"id": "plus-square",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Plus Square",
 		"terms": [
@@ -6228,29 +5193,32 @@
 		"unicode": "f0fe"
 	},
 	{
+		"id": "plus-square-o",
+		"styles": [
+			""
+		],
+		"label": "Plus Square Outlined",
+		"terms": [
+			"add",
+			"new",
+			"create",
+			"expand"
+		],
+		"unicode": "f196"
+	},
+	{
 		"id": "podcast",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Podcast",
 		"terms": [],
 		"unicode": "f2ce"
 	},
 	{
-		"id": "pound-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Pound Sign",
-		"terms": [
-			"gbp"
-		],
-		"unicode": "f154"
-	},
-	{
 		"id": "power-off",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Power Off",
 		"terms": [
@@ -6261,7 +5229,7 @@
 	{
 		"id": "print",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "print",
 		"terms": [],
@@ -6270,25 +5238,16 @@
 	{
 		"id": "product-hunt",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Product Hunt",
 		"terms": [],
 		"unicode": "f288"
 	},
 	{
-		"id": "pushed",
-		"styles": [
-			"brands"
-		],
-		"label": "Pushed",
-		"terms": [],
-		"unicode": "f3e1"
-	},
-	{
 		"id": "puzzle-piece",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Puzzle Piece",
 		"terms": [
@@ -6299,18 +5258,9 @@
 		"unicode": "f12e"
 	},
 	{
-		"id": "python",
-		"styles": [
-			"brands"
-		],
-		"label": "Python",
-		"terms": [],
-		"unicode": "f3e2"
-	},
-	{
 		"id": "qq",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "QQ",
 		"terms": [],
@@ -6319,7 +5269,7 @@
 	{
 		"id": "qrcode",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "qrcode",
 		"terms": [
@@ -6330,7 +5280,7 @@
 	{
 		"id": "question",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Question",
 		"terms": [
@@ -6344,8 +5294,7 @@
 	{
 		"id": "question-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Question Circle",
 		"terms": [
@@ -6357,27 +5306,18 @@
 		"unicode": "f059"
 	},
 	{
-		"id": "quidditch",
+		"id": "question-circle-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Quidditch",
+		"label": "Question Circle Outlined",
 		"terms": [],
-		"unicode": "f458"
-	},
-	{
-		"id": "quinscape",
-		"styles": [
-			"brands"
-		],
-		"label": "QuinScape",
-		"terms": [],
-		"unicode": "f459"
+		"unicode": "f29c"
 	},
 	{
 		"id": "quora",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Quora",
 		"terms": [],
@@ -6386,7 +5326,7 @@
 	{
 		"id": "quote-left",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "quote-left",
 		"terms": [],
@@ -6395,7 +5335,7 @@
 	{
 		"id": "quote-right",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "quote-right",
 		"terms": [],
@@ -6404,7 +5344,7 @@
 	{
 		"id": "random",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "random",
 		"terms": [
@@ -6416,52 +5356,37 @@
 	{
 		"id": "ravelry",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Ravelry",
 		"terms": [],
 		"unicode": "f2d9"
 	},
 	{
-		"id": "react",
-		"styles": [
-			"brands"
-		],
-		"label": "React",
-		"terms": [],
-		"unicode": "f41b"
-	},
-	{
 		"id": "rebel",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Rebel Alliance",
-		"terms": [],
+		"terms": [
+			"ra",
+			"resistance"
+		],
 		"unicode": "f1d0"
 	},
 	{
 		"id": "recycle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Recycle",
 		"terms": [],
 		"unicode": "f1b8"
 	},
 	{
-		"id": "red-river",
-		"styles": [
-			"brands"
-		],
-		"label": "red river",
-		"terms": [],
-		"unicode": "f3e3"
-	},
-	{
 		"id": "reddit",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "reddit Logo",
 		"terms": [],
@@ -6470,7 +5395,7 @@
 	{
 		"id": "reddit-alien",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "reddit Alien",
 		"terms": [],
@@ -6479,118 +5404,94 @@
 	{
 		"id": "reddit-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "reddit Square",
 		"terms": [],
 		"unicode": "f1a2"
 	},
 	{
-		"id": "redo",
+		"id": "refresh",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Redo",
+		"label": "refresh",
 		"terms": [
-			"forward",
-			"repeat"
+			"reload",
+			"sync"
 		],
-		"unicode": "f01e"
-	},
-	{
-		"id": "redo-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Redo",
-		"terms": [
-			"forward",
-			"repeat"
-		],
-		"unicode": "f2f9"
+		"unicode": "f021"
 	},
 	{
 		"id": "registered",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Registered Trademark",
 		"terms": [],
 		"unicode": "f25d"
 	},
 	{
-		"id": "rendact",
-		"styles": [
-			"brands"
-		],
-		"label": "Rendact",
-		"terms": [],
-		"unicode": "f3e4"
-	},
-	{
 		"id": "renren",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Renren",
 		"terms": [],
 		"unicode": "f18b"
 	},
 	{
+		"id": "repeat",
+		"styles": [
+			""
+		],
+		"label": "Repeat",
+		"terms": [
+			"rotate-right",
+			"redo",
+			"forward"
+		],
+		"unicode": "f01e"
+	},
+	{
 		"id": "reply",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Reply",
-		"terms": [],
-		"unicode": "f3e5"
+		"terms": [
+			"mail-reply"
+		],
+		"unicode": "f112"
 	},
 	{
 		"id": "reply-all",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "reply-all",
-		"terms": [],
+		"terms": [
+			"mail-reply-all"
+		],
 		"unicode": "f122"
-	},
-	{
-		"id": "replyd",
-		"styles": [
-			"brands"
-		],
-		"label": "replyd",
-		"terms": [],
-		"unicode": "f3e6"
-	},
-	{
-		"id": "resolving",
-		"styles": [
-			"brands"
-		],
-		"label": "Resolving",
-		"terms": [],
-		"unicode": "f3e7"
 	},
 	{
 		"id": "retweet",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Retweet",
+		"label": "retweet",
 		"terms": [
 			"refresh",
 			"reload",
-			"share",
-			"swap"
+			"share"
 		],
 		"unicode": "f079"
 	},
 	{
 		"id": "road",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "road",
 		"terms": [
@@ -6601,7 +5502,7 @@
 	{
 		"id": "rocket",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "rocket",
 		"terms": [
@@ -6610,30 +5511,13 @@
 		"unicode": "f135"
 	},
 	{
-		"id": "rocketchat",
-		"styles": [
-			"brands"
-		],
-		"label": "Rocket.Chat",
-		"terms": [],
-		"unicode": "f3e8"
-	},
-	{
-		"id": "rockrms",
-		"styles": [
-			"brands"
-		],
-		"label": "Rockrms",
-		"terms": [],
-		"unicode": "f3e9"
-	},
-	{
 		"id": "rss",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "rss",
 		"terms": [
+			"feed",
 			"blog"
 		],
 		"unicode": "f09e"
@@ -6641,7 +5525,7 @@
 	{
 		"id": "rss-square",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "RSS Square",
 		"terms": [
@@ -6651,32 +5535,21 @@
 		"unicode": "f143"
 	},
 	{
-		"id": "ruble-sign",
+		"id": "rub",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Ruble Sign",
+		"label": "Russian Ruble (RUB)",
 		"terms": [
-			"rub"
+			"ruble",
+			"rouble"
 		],
 		"unicode": "f158"
 	},
 	{
-		"id": "rupee-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Indian Rupee Sign",
-		"terms": [
-			"indian",
-			"inr"
-		],
-		"unicode": "f156"
-	},
-	{
 		"id": "safari",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Safari",
 		"terms": [
@@ -6685,40 +5558,20 @@
 		"unicode": "f267"
 	},
 	{
-		"id": "sass",
+		"id": "scissors",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Sass",
-		"terms": [],
-		"unicode": "f41e"
-	},
-	{
-		"id": "save",
-		"styles": [
-			"solid",
-			"regular"
-		],
-		"label": "Save",
+		"label": "Scissors",
 		"terms": [
-			"floppy",
-			"floppy-o"
+			"cut"
 		],
-		"unicode": "f0c7"
-	},
-	{
-		"id": "schlix",
-		"styles": [
-			"brands"
-		],
-		"label": "SCHLIX",
-		"terms": [],
-		"unicode": "f3ea"
+		"unicode": "f0c4"
 	},
 	{
 		"id": "scribd",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Scribd",
 		"terms": [],
@@ -6727,7 +5580,7 @@
 	{
 		"id": "search",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Search",
 		"terms": [
@@ -6741,7 +5594,7 @@
 	{
 		"id": "search-minus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Search Minus",
 		"terms": [
@@ -6755,7 +5608,7 @@
 	{
 		"id": "search-plus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Search Plus",
 		"terms": [
@@ -6767,29 +5620,9 @@
 		"unicode": "f00e"
 	},
 	{
-		"id": "searchengin",
-		"styles": [
-			"brands"
-		],
-		"label": "Searchengin",
-		"terms": [],
-		"unicode": "f3eb"
-	},
-	{
-		"id": "sellcast",
-		"styles": [
-			"brands"
-		],
-		"label": "Sellcast",
-		"terms": [
-			"eercast"
-		],
-		"unicode": "f2da"
-	},
-	{
 		"id": "sellsy",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Sellsy",
 		"terms": [],
@@ -6798,53 +5631,45 @@
 	{
 		"id": "server",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Server",
 		"terms": [],
 		"unicode": "f233"
 	},
 	{
-		"id": "servicestack",
-		"styles": [
-			"brands"
-		],
-		"label": "Servicestack",
-		"terms": [],
-		"unicode": "f3ec"
-	},
-	{
 		"id": "share",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Share",
-		"terms": [],
+		"terms": [
+			"mail-forward"
+		],
 		"unicode": "f064"
 	},
 	{
 		"id": "share-alt",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Share",
+		"label": "Share Alt",
 		"terms": [],
 		"unicode": "f1e0"
 	},
 	{
 		"id": "share-alt-square",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Share Square",
+		"label": "Share Alt Square",
 		"terms": [],
 		"unicode": "f1e1"
 	},
 	{
 		"id": "share-square",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Share Square",
 		"terms": [
@@ -6854,31 +5679,36 @@
 		"unicode": "f14d"
 	},
 	{
-		"id": "shekel-sign",
+		"id": "share-square-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Shekel Sign",
+		"label": "Share Square Outlined",
 		"terms": [
-			"ils"
+			"social",
+			"send",
+			"arrow"
 		],
-		"unicode": "f20b"
+		"unicode": "f045"
 	},
 	{
-		"id": "shield-alt",
+		"id": "shield",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Shield",
+		"label": "shield",
 		"terms": [
-			"shield"
+			"award",
+			"achievement",
+			"security",
+			"winner"
 		],
-		"unicode": "f3ed"
+		"unicode": "f132"
 	},
 	{
 		"id": "ship",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Ship",
 		"terms": [
@@ -6888,18 +5718,9 @@
 		"unicode": "f21a"
 	},
 	{
-		"id": "shipping-fast",
-		"styles": [
-			"solid"
-		],
-		"label": "Shipping Fast",
-		"terms": [],
-		"unicode": "f48b"
-	},
-	{
 		"id": "shirtsinbulk",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Shirts in Bulk",
 		"terms": [],
@@ -6908,7 +5729,7 @@
 	{
 		"id": "shopping-bag",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Shopping Bag",
 		"terms": [],
@@ -6917,7 +5738,7 @@
 	{
 		"id": "shopping-basket",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Shopping Basket",
 		"terms": [],
@@ -6926,7 +5747,7 @@
 	{
 		"id": "shopping-cart",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "shopping-cart",
 		"terms": [
@@ -6940,18 +5761,18 @@
 	{
 		"id": "shower",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Shower",
 		"terms": [],
 		"unicode": "f2cc"
 	},
 	{
-		"id": "sign-in-alt",
+		"id": "sign-in",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Sign In",
+		"label": "Sign In",
 		"terms": [
 			"enter",
 			"join",
@@ -6961,71 +5782,61 @@
 			"sign in",
 			"signin",
 			"signup",
-			"arrow",
-			"sign-in"
+			"arrow"
 		],
-		"unicode": "f2f6"
+		"unicode": "f090"
 	},
 	{
 		"id": "sign-language",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Sign Language",
-		"terms": [],
+		"terms": [
+			"signing"
+		],
 		"unicode": "f2a7"
 	},
 	{
-		"id": "sign-out-alt",
+		"id": "sign-out",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Sign Out",
+		"label": "Sign Out",
 		"terms": [
 			"log out",
 			"logout",
 			"leave",
 			"exit",
-			"arrow",
-			"sign-out"
+			"arrow"
 		],
-		"unicode": "f2f5"
+		"unicode": "f08b"
 	},
 	{
 		"id": "signal",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "signal",
 		"terms": [
 			"graph",
-			"bars",
-			"status"
+			"bars"
 		],
 		"unicode": "f012"
 	},
 	{
 		"id": "simplybuilt",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "SimplyBuilt",
 		"terms": [],
 		"unicode": "f215"
 	},
 	{
-		"id": "sistrix",
-		"styles": [
-			"brands"
-		],
-		"label": "SISTRIX",
-		"terms": [],
-		"unicode": "f3ee"
-	},
-	{
 		"id": "sitemap",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Sitemap",
 		"terms": [
@@ -7038,7 +5849,7 @@
 	{
 		"id": "skyatlas",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "skyatlas",
 		"terms": [],
@@ -7047,7 +5858,7 @@
 	{
 		"id": "skype",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Skype",
 		"terms": [],
@@ -7056,7 +5867,7 @@
 	{
 		"id": "slack",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Slack Logo",
 		"terms": [
@@ -7067,46 +5878,31 @@
 		"unicode": "f198"
 	},
 	{
-		"id": "slack-hash",
+		"id": "sliders",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Slack Hashtag",
+		"label": "Sliders",
 		"terms": [
-			"hashtag",
-			"anchor",
-			"hash"
-		],
-		"unicode": "f3ef"
-	},
-	{
-		"id": "sliders-h",
-		"styles": [
-			"solid"
-		],
-		"label": "Horizontal Sliders",
-		"terms": [
-			"settings",
-			"sliders"
+			"settings"
 		],
 		"unicode": "f1de"
 	},
 	{
 		"id": "slideshare",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Slideshare",
 		"terms": [],
 		"unicode": "f1e7"
 	},
 	{
-		"id": "smile",
+		"id": "smile-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Smile",
+		"label": "Smile Outlined",
 		"terms": [
 			"face",
 			"emoticon",
@@ -7120,7 +5916,7 @@
 	{
 		"id": "snapchat",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Snapchat",
 		"terms": [],
@@ -7129,7 +5925,7 @@
 	{
 		"id": "snapchat-ghost",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Snapchat Ghost",
 		"terms": [],
@@ -7138,131 +5934,122 @@
 	{
 		"id": "snapchat-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Snapchat Square",
 		"terms": [],
 		"unicode": "f2ad"
 	},
 	{
-		"id": "snowflake",
+		"id": "snowflake-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Snowflake",
+		"label": "Snowflake Outlined",
 		"terms": [],
 		"unicode": "f2dc"
 	},
 	{
 		"id": "sort",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Sort",
 		"terms": [
+			"unsorted",
 			"order"
 		],
 		"unicode": "f0dc"
 	},
 	{
-		"id": "sort-alpha-down",
+		"id": "sort-alpha-asc",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Sort Alpha Down",
-		"terms": [
-			"sort-alpha-asc"
-		],
+		"label": "Sort Alpha Ascending",
+		"terms": [],
 		"unicode": "f15d"
 	},
 	{
-		"id": "sort-alpha-up",
+		"id": "sort-alpha-desc",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Sort Alpha Up",
-		"terms": [
-			"sort-alpha-desc"
-		],
+		"label": "Sort Alpha Descending",
+		"terms": [],
 		"unicode": "f15e"
 	},
 	{
-		"id": "sort-amount-down",
+		"id": "sort-amount-asc",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Sort Amount Down",
-		"terms": [
-			"sort-amount-asc"
-		],
+		"label": "Sort Amount Ascending",
+		"terms": [],
 		"unicode": "f160"
 	},
 	{
-		"id": "sort-amount-up",
+		"id": "sort-amount-desc",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Sort Amount Up",
-		"terms": [
-			"sort-amount-desc"
-		],
+		"label": "Sort Amount Descending",
+		"terms": [],
 		"unicode": "f161"
 	},
 	{
-		"id": "sort-down",
+		"id": "sort-asc",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Sort Down (Descending)",
+		"label": "Sort Ascending",
 		"terms": [
-			"arrow",
-			"descending",
-			"sort-desc"
-		],
-		"unicode": "f0dd"
-	},
-	{
-		"id": "sort-numeric-down",
-		"styles": [
-			"solid"
-		],
-		"label": "Sort Numeric Down",
-		"terms": [
-			"numbers",
-			"sort-numeric-asc"
-		],
-		"unicode": "f162"
-	},
-	{
-		"id": "sort-numeric-up",
-		"styles": [
-			"solid"
-		],
-		"label": "Sort Numeric Up",
-		"terms": [
-			"numbers",
-			"sort-numeric-desc"
-		],
-		"unicode": "f163"
-	},
-	{
-		"id": "sort-up",
-		"styles": [
-			"solid"
-		],
-		"label": "Sort Up (Ascending)",
-		"terms": [
-			"arrow",
-			"ascending",
-			"sort-asc"
+			"sort-up",
+			"arrow"
 		],
 		"unicode": "f0de"
 	},
 	{
+		"id": "sort-desc",
+		"styles": [
+			""
+		],
+		"label": "Sort Descending",
+		"terms": [
+			"sort-down",
+			"dropdown",
+			"more",
+			"menu",
+			"arrow"
+		],
+		"unicode": "f0dd"
+	},
+	{
+		"id": "sort-numeric-asc",
+		"styles": [
+			""
+		],
+		"label": "Sort Numeric Ascending",
+		"terms": [
+			"numbers"
+		],
+		"unicode": "f162"
+	},
+	{
+		"id": "sort-numeric-desc",
+		"styles": [
+			""
+		],
+		"label": "Sort Numeric Descending",
+		"terms": [
+			"numbers"
+		],
+		"unicode": "f163"
+	},
+	{
 		"id": "soundcloud",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "SoundCloud",
 		"terms": [],
@@ -7271,25 +6058,16 @@
 	{
 		"id": "space-shuttle",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Space Shuttle",
 		"terms": [],
 		"unicode": "f197"
 	},
 	{
-		"id": "speakap",
-		"styles": [
-			"brands"
-		],
-		"label": "Speakap",
-		"terms": [],
-		"unicode": "f3f3"
-	},
-	{
 		"id": "spinner",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Spinner",
 		"terms": [
@@ -7299,9 +6077,18 @@
 		"unicode": "f110"
 	},
 	{
+		"id": "spoon",
+		"styles": [
+			""
+		],
+		"label": "spoon",
+		"terms": [],
+		"unicode": "f1b1"
+	},
+	{
 		"id": "spotify",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Spotify",
 		"terms": [],
@@ -7310,8 +6097,7 @@
 	{
 		"id": "square",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Square",
 		"terms": [
@@ -7321,18 +6107,22 @@
 		"unicode": "f0c8"
 	},
 	{
-		"id": "square-full",
+		"id": "square-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Square Full",
-		"terms": [],
-		"unicode": "f45c"
+		"label": "Square Outlined",
+		"terms": [
+			"block",
+			"square",
+			"box"
+		],
+		"unicode": "f096"
 	},
 	{
 		"id": "stack-exchange",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Stack Exchange",
 		"terms": [],
@@ -7341,7 +6131,7 @@
 	{
 		"id": "stack-overflow",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Stack Overflow",
 		"terms": [],
@@ -7350,8 +6140,7 @@
 	{
 		"id": "star",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Star",
 		"terms": [
@@ -7367,33 +6156,53 @@
 	{
 		"id": "star-half",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "star-half",
 		"terms": [
 			"award",
 			"achievement",
 			"rating",
-			"score",
-			"star-half-empty",
-			"star-half-full"
+			"score"
 		],
 		"unicode": "f089"
 	},
 	{
-		"id": "staylinked",
+		"id": "star-half-o",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "StayLinked",
-		"terms": [],
-		"unicode": "f3f5"
+		"label": "Star Half Outlined",
+		"terms": [
+			"star-half-empty",
+			"star-half-full",
+			"award",
+			"achievement",
+			"rating",
+			"score"
+		],
+		"unicode": "f123"
+	},
+	{
+		"id": "star-o",
+		"styles": [
+			""
+		],
+		"label": "Star Outlined",
+		"terms": [
+			"award",
+			"achievement",
+			"night",
+			"rating",
+			"score",
+			"favorite"
+		],
+		"unicode": "f006"
 	},
 	{
 		"id": "steam",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Steam",
 		"terms": [],
@@ -7402,25 +6211,16 @@
 	{
 		"id": "steam-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Steam Square",
 		"terms": [],
 		"unicode": "f1b7"
 	},
 	{
-		"id": "steam-symbol",
-		"styles": [
-			"brands"
-		],
-		"label": "Steam Symbol",
-		"terms": [],
-		"unicode": "f3f6"
-	},
-	{
 		"id": "step-backward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "step-backward",
 		"terms": [
@@ -7435,7 +6235,7 @@
 	{
 		"id": "step-forward",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "step-forward",
 		"terms": [
@@ -7448,35 +6248,34 @@
 	{
 		"id": "stethoscope",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Stethoscope",
 		"terms": [],
 		"unicode": "f0f1"
 	},
 	{
-		"id": "sticker-mule",
-		"styles": [
-			"brands"
-		],
-		"label": "Sticker Mule",
-		"terms": [],
-		"unicode": "f3f7"
-	},
-	{
 		"id": "sticky-note",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Sticky Note",
 		"terms": [],
 		"unicode": "f249"
 	},
 	{
+		"id": "sticky-note-o",
+		"styles": [
+			""
+		],
+		"label": "Sticky Note Outlined",
+		"terms": [],
+		"unicode": "f24a"
+	},
+	{
 		"id": "stop",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "stop",
 		"terms": [
@@ -7489,37 +6288,25 @@
 	{
 		"id": "stop-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Stop Circle",
 		"terms": [],
 		"unicode": "f28d"
 	},
 	{
-		"id": "stopwatch",
+		"id": "stop-circle-o",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Stopwatch",
-		"terms": [
-			"time"
-		],
-		"unicode": "f2f2"
-	},
-	{
-		"id": "strava",
-		"styles": [
-			"brands"
-		],
-		"label": "Strava",
+		"label": "Stop Circle Outlined",
 		"terms": [],
-		"unicode": "f428"
+		"unicode": "f28e"
 	},
 	{
 		"id": "street-view",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Street View",
 		"terms": [
@@ -7530,43 +6317,16 @@
 	{
 		"id": "strikethrough",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Strikethrough",
 		"terms": [],
 		"unicode": "f0cc"
 	},
 	{
-		"id": "stripe",
-		"styles": [
-			"brands"
-		],
-		"label": "Stripe",
-		"terms": [],
-		"unicode": "f429"
-	},
-	{
-		"id": "stripe-s",
-		"styles": [
-			"brands"
-		],
-		"label": "Stripe S",
-		"terms": [],
-		"unicode": "f42a"
-	},
-	{
-		"id": "studiovinari",
-		"styles": [
-			"brands"
-		],
-		"label": "Studio Vinari",
-		"terms": [],
-		"unicode": "f3f8"
-	},
-	{
 		"id": "stumbleupon",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "StumbleUpon Logo",
 		"terms": [],
@@ -7575,7 +6335,7 @@
 	{
 		"id": "stumbleupon-circle",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "StumbleUpon Circle",
 		"terms": [],
@@ -7584,7 +6344,7 @@
 	{
 		"id": "subscript",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "subscript",
 		"terms": [],
@@ -7593,7 +6353,7 @@
 	{
 		"id": "subway",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Subway",
 		"terms": [],
@@ -7602,7 +6362,7 @@
 	{
 		"id": "suitcase",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Suitcase",
 		"terms": [
@@ -7615,12 +6375,11 @@
 		"unicode": "f0f2"
 	},
 	{
-		"id": "sun",
+		"id": "sun-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Sun",
+		"label": "Sun Outlined",
 		"terms": [
 			"weather",
 			"contrast",
@@ -7633,7 +6392,7 @@
 	{
 		"id": "superpowers",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Superpowers",
 		"terms": [],
@@ -7642,7 +6401,7 @@
 	{
 		"id": "superscript",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "superscript",
 		"terms": [
@@ -7651,54 +6410,9 @@
 		"unicode": "f12b"
 	},
 	{
-		"id": "supple",
-		"styles": [
-			"brands"
-		],
-		"label": "Supple",
-		"terms": [],
-		"unicode": "f3f9"
-	},
-	{
-		"id": "sync",
-		"styles": [
-			"solid"
-		],
-		"label": "Sync",
-		"terms": [
-			"reload",
-			"refresh"
-		],
-		"unicode": "f021"
-	},
-	{
-		"id": "sync-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Sync",
-		"terms": [
-			"reload",
-			"refresh"
-		],
-		"unicode": "f2f1"
-	},
-	{
-		"id": "syringe",
-		"styles": [
-			"solid"
-		],
-		"label": "Syringe",
-		"terms": [
-			"immunizations",
-			"needle"
-		],
-		"unicode": "f48e"
-	},
-	{
 		"id": "table",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "table",
 		"terms": [
@@ -7709,18 +6423,9 @@
 		"unicode": "f0ce"
 	},
 	{
-		"id": "table-tennis",
-		"styles": [
-			"solid"
-		],
-		"label": "Table Tennis",
-		"terms": [],
-		"unicode": "f45d"
-	},
-	{
 		"id": "tablet",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "tablet",
 		"terms": [
@@ -7730,32 +6435,22 @@
 		"unicode": "f10a"
 	},
 	{
-		"id": "tablet-alt",
+		"id": "tachometer",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Tablet",
+		"label": "Tachometer",
 		"terms": [
-			"tablet"
+			"dashboard",
+			"speedometer",
+			"fast"
 		],
-		"unicode": "f3fa"
-	},
-	{
-		"id": "tachometer-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Tachometer",
-		"terms": [
-			"tachometer",
-			"dashboard"
-		],
-		"unicode": "f3fd"
+		"unicode": "f0e4"
 	},
 	{
 		"id": "tag",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "tag",
 		"terms": [
@@ -7766,7 +6461,7 @@
 	{
 		"id": "tags",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "tags",
 		"terms": [
@@ -7777,7 +6472,7 @@
 	{
 		"id": "tasks",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Tasks",
 		"terms": [
@@ -7792,10 +6487,11 @@
 	{
 		"id": "taxi",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Taxi",
 		"terms": [
+			"cab",
 			"vehicle"
 		],
 		"unicode": "f1ba"
@@ -7803,25 +6499,30 @@
 	{
 		"id": "telegram",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Telegram",
 		"terms": [],
 		"unicode": "f2c6"
 	},
 	{
-		"id": "telegram-plane",
+		"id": "television",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Telegram Plane",
-		"terms": [],
-		"unicode": "f3fe"
+		"label": "Television",
+		"terms": [
+			"tv",
+			"display",
+			"computer",
+			"monitor"
+		],
+		"unicode": "f26c"
 	},
 	{
 		"id": "tencent-weibo",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Tencent Weibo",
 		"terms": [],
@@ -7830,7 +6531,7 @@
 	{
 		"id": "terminal",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Terminal",
 		"terms": [
@@ -7843,7 +6544,7 @@
 	{
 		"id": "text-height",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "text-height",
 		"terms": [],
@@ -7852,7 +6553,7 @@
 	{
 		"id": "text-width",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "text-width",
 		"terms": [],
@@ -7861,7 +6562,7 @@
 	{
 		"id": "th",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "th",
 		"terms": [
@@ -7875,7 +6576,7 @@
 	{
 		"id": "th-large",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "th-large",
 		"terms": [
@@ -7889,7 +6590,7 @@
 	{
 		"id": "th-list",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "th-list",
 		"terms": [
@@ -7906,100 +6607,129 @@
 	{
 		"id": "themeisle",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "ThemeIsle",
 		"terms": [],
 		"unicode": "f2b2"
 	},
 	{
-		"id": "thermometer",
-		"styles": [
-			"solid"
-		],
-		"label": "Thermometer",
-		"terms": [
-			"temperature",
-			"fever"
-		],
-		"unicode": "f491"
-	},
-	{
 		"id": "thermometer-empty",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Thermometer Empty",
 		"terms": [
-			"status"
+			"thermometer-0"
 		],
 		"unicode": "f2cb"
 	},
 	{
 		"id": "thermometer-full",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Thermometer Full",
 		"terms": [
-			"status"
+			"thermometer-4",
+			"thermometer"
 		],
 		"unicode": "f2c7"
 	},
 	{
 		"id": "thermometer-half",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Thermometer 1/2 Full",
 		"terms": [
-			"status"
+			"thermometer-2"
 		],
 		"unicode": "f2c9"
 	},
 	{
 		"id": "thermometer-quarter",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Thermometer 1/4 Full",
 		"terms": [
-			"status"
+			"thermometer-1"
 		],
 		"unicode": "f2ca"
 	},
 	{
 		"id": "thermometer-three-quarters",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Thermometer 3/4 Full",
 		"terms": [
-			"status"
+			"thermometer-3"
 		],
 		"unicode": "f2c8"
 	},
 	{
+		"id": "thumb-tack",
+		"styles": [
+			""
+		],
+		"label": "Thumb Tack",
+		"terms": [
+			"marker",
+			"pin",
+			"location",
+			"coordinates"
+		],
+		"unicode": "f08d"
+	},
+	{
 		"id": "thumbs-down",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "thumbs-down",
 		"terms": [
 			"dislike",
 			"disapprove",
 			"disagree",
-			"hand",
-			"thumbs-o-down"
+			"hand"
 		],
 		"unicode": "f165"
 	},
 	{
+		"id": "thumbs-o-down",
+		"styles": [
+			""
+		],
+		"label": "Thumbs Down Outlined",
+		"terms": [
+			"dislike",
+			"disapprove",
+			"disagree",
+			"hand"
+		],
+		"unicode": "f088"
+	},
+	{
+		"id": "thumbs-o-up",
+		"styles": [
+			""
+		],
+		"label": "Thumbs Up Outlined",
+		"terms": [
+			"like",
+			"approve",
+			"favorite",
+			"agree",
+			"hand"
+		],
+		"unicode": "f087"
+	},
+	{
 		"id": "thumbs-up",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "thumbs-up",
 		"terms": [
@@ -8007,44 +6737,31 @@
 			"favorite",
 			"approve",
 			"agree",
-			"hand",
-			"thumbs-o-up"
+			"hand"
 		],
 		"unicode": "f164"
 	},
 	{
-		"id": "thumbtack",
+		"id": "ticket",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Thumbtack",
+		"label": "Ticket",
 		"terms": [
-			"marker",
-			"pin",
-			"location",
-			"coordinates",
-			"thumb-tack"
+			"movie",
+			"pass",
+			"support"
 		],
-		"unicode": "f08d"
-	},
-	{
-		"id": "ticket-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Ticket",
-		"terms": [
-			"ticket"
-		],
-		"unicode": "f3ff"
+		"unicode": "f145"
 	},
 	{
 		"id": "times",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Times",
 		"terms": [
+			"remove",
 			"close",
 			"exit",
 			"x",
@@ -8055,8 +6772,7 @@
 	{
 		"id": "times-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Times Circle",
 		"terms": [
@@ -8067,9 +6783,22 @@
 		"unicode": "f057"
 	},
 	{
+		"id": "times-circle-o",
+		"styles": [
+			""
+		],
+		"label": "Times Circle Outlined",
+		"terms": [
+			"close",
+			"exit",
+			"x"
+		],
+		"unicode": "f05c"
+	},
+	{
 		"id": "tint",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "tint",
 		"terms": [
@@ -8083,29 +6812,25 @@
 	{
 		"id": "toggle-off",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Toggle Off",
-		"terms": [
-			"switch"
-		],
+		"terms": [],
 		"unicode": "f204"
 	},
 	{
 		"id": "toggle-on",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Toggle On",
-		"terms": [
-			"switch"
-		],
+		"terms": [],
 		"unicode": "f205"
 	},
 	{
 		"id": "trademark",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Trademark",
 		"terms": [],
@@ -8114,7 +6839,7 @@
 	{
 		"id": "train",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Train",
 		"terms": [],
@@ -8123,7 +6848,7 @@
 	{
 		"id": "transgender",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Transgender",
 		"terms": [
@@ -8134,16 +6859,16 @@
 	{
 		"id": "transgender-alt",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Transgender",
+		"label": "Transgender Alt",
 		"terms": [],
 		"unicode": "f225"
 	},
 	{
 		"id": "trash",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Trash",
 		"terms": [
@@ -8155,26 +6880,24 @@
 		"unicode": "f1f8"
 	},
 	{
-		"id": "trash-alt",
+		"id": "trash-o",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
-		"label": "Alternate Trash",
+		"label": "Trash Outlined",
 		"terms": [
 			"garbage",
 			"delete",
 			"remove",
-			"hide",
 			"trash",
-			"trash-o"
+			"hide"
 		],
-		"unicode": "f2ed"
+		"unicode": "f014"
 	},
 	{
 		"id": "tree",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Tree",
 		"terms": [],
@@ -8183,7 +6906,7 @@
 	{
 		"id": "trello",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Trello",
 		"terms": [],
@@ -8192,7 +6915,7 @@
 	{
 		"id": "tripadvisor",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "TripAdvisor",
 		"terms": [],
@@ -8201,7 +6924,7 @@
 	{
 		"id": "trophy",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "trophy",
 		"terms": [
@@ -8216,7 +6939,7 @@
 	{
 		"id": "truck",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "truck",
 		"terms": [
@@ -8225,9 +6948,20 @@
 		"unicode": "f0d1"
 	},
 	{
+		"id": "try",
+		"styles": [
+			""
+		],
+		"label": "Turkish Lira (TRY)",
+		"terms": [
+			"turkish-lira"
+		],
+		"unicode": "f195"
+	},
+	{
 		"id": "tty",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "TTY",
 		"terms": [],
@@ -8236,7 +6970,7 @@
 	{
 		"id": "tumblr",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Tumblr",
 		"terms": [],
@@ -8245,30 +6979,16 @@
 	{
 		"id": "tumblr-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Tumblr Square",
 		"terms": [],
 		"unicode": "f174"
 	},
 	{
-		"id": "tv",
-		"styles": [
-			"solid"
-		],
-		"label": "Television",
-		"terms": [
-			"display",
-			"computer",
-			"monitor",
-			"television"
-		],
-		"unicode": "f26c"
-	},
-	{
 		"id": "twitch",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Twitch",
 		"terms": [],
@@ -8277,7 +6997,7 @@
 	{
 		"id": "twitter",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Twitter",
 		"terms": [
@@ -8289,7 +7009,7 @@
 	{
 		"id": "twitter-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Twitter Square",
 		"terms": [
@@ -8299,36 +7019,9 @@
 		"unicode": "f081"
 	},
 	{
-		"id": "typo3",
-		"styles": [
-			"brands"
-		],
-		"label": "Typo3",
-		"terms": [],
-		"unicode": "f42b"
-	},
-	{
-		"id": "uber",
-		"styles": [
-			"brands"
-		],
-		"label": "Uber",
-		"terms": [],
-		"unicode": "f402"
-	},
-	{
-		"id": "uikit",
-		"styles": [
-			"brands"
-		],
-		"label": "UIkit",
-		"terms": [],
-		"unicode": "f403"
-	},
-	{
 		"id": "umbrella",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Umbrella",
 		"terms": [],
@@ -8337,7 +7030,7 @@
 	{
 		"id": "underline",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Underline",
 		"terms": [],
@@ -8346,38 +7039,19 @@
 	{
 		"id": "undo",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Undo",
 		"terms": [
+			"rotate-left",
 			"back"
 		],
 		"unicode": "f0e2"
 	},
 	{
-		"id": "undo-alt",
-		"styles": [
-			"solid"
-		],
-		"label": "Alternate Undo",
-		"terms": [
-			"back"
-		],
-		"unicode": "f2ea"
-	},
-	{
-		"id": "uniregistry",
-		"styles": [
-			"brands"
-		],
-		"label": "Uniregistry",
-		"terms": [],
-		"unicode": "f404"
-	},
-	{
 		"id": "universal-access",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Universal Access",
 		"terms": [],
@@ -8386,32 +7060,19 @@
 	{
 		"id": "university",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "University",
 		"terms": [
-			"bank",
-			"institution"
+			"institution",
+			"bank"
 		],
 		"unicode": "f19c"
 	},
 	{
-		"id": "unlink",
-		"styles": [
-			"solid"
-		],
-		"label": "unlink",
-		"terms": [
-			"remove",
-			"chain",
-			"chain-broken"
-		],
-		"unicode": "f127"
-	},
-	{
 		"id": "unlock",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "unlock",
 		"terms": [
@@ -8425,9 +7086,9 @@
 	{
 		"id": "unlock-alt",
 		"styles": [
-			"solid"
+			""
 		],
-		"label": "Alternate Unlock",
+		"label": "Unlock Alt",
 		"terms": [
 			"protect",
 			"admin",
@@ -8437,18 +7098,9 @@
 		"unicode": "f13e"
 	},
 	{
-		"id": "untappd",
-		"styles": [
-			"brands"
-		],
-		"label": "Untappd",
-		"terms": [],
-		"unicode": "f405"
-	},
-	{
 		"id": "upload",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Upload",
 		"terms": [
@@ -8459,64 +7111,82 @@
 	{
 		"id": "usb",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "USB",
 		"terms": [],
 		"unicode": "f287"
 	},
 	{
+		"id": "usd",
+		"styles": [
+			""
+		],
+		"label": "US Dollar",
+		"terms": [
+			"dollar"
+		],
+		"unicode": "f155"
+	},
+	{
 		"id": "user",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "User",
 		"terms": [
 			"person",
 			"man",
 			"head",
-			"profile",
-			"account"
+			"profile"
 		],
 		"unicode": "f007"
 	},
 	{
 		"id": "user-circle",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "User Circle",
-		"terms": [
-			"person",
-			"man",
-			"head",
-			"profile",
-			"account"
-		],
+		"terms": [],
 		"unicode": "f2bd"
+	},
+	{
+		"id": "user-circle-o",
+		"styles": [
+			""
+		],
+		"label": "User Circle Outlined",
+		"terms": [],
+		"unicode": "f2be"
 	},
 	{
 		"id": "user-md",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "user-md",
 		"terms": [
 			"doctor",
 			"profile",
 			"medical",
-			"nurse",
-			"job",
-			"occupation"
+			"nurse"
 		],
 		"unicode": "f0f0"
 	},
 	{
+		"id": "user-o",
+		"styles": [
+			""
+		],
+		"label": "User Outlined",
+		"terms": [],
+		"unicode": "f2c0"
+	},
+	{
 		"id": "user-plus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Add User",
 		"terms": [
@@ -8528,7 +7198,7 @@
 	{
 		"id": "user-secret",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "User Secret",
 		"terms": [
@@ -8542,7 +7212,7 @@
 	{
 		"id": "user-times",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Remove User",
 		"terms": [],
@@ -8551,10 +7221,11 @@
 	{
 		"id": "users",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Users",
 		"terms": [
+			"group",
 			"people",
 			"profiles",
 			"persons"
@@ -8562,55 +7233,9 @@
 		"unicode": "f0c0"
 	},
 	{
-		"id": "ussunnah",
-		"styles": [
-			"brands"
-		],
-		"label": "us-Sunnah Foundation",
-		"terms": [],
-		"unicode": "f407"
-	},
-	{
-		"id": "utensil-spoon",
-		"styles": [
-			"solid"
-		],
-		"label": "Utensil Spoon",
-		"terms": [
-			"spoon"
-		],
-		"unicode": "f2e5"
-	},
-	{
-		"id": "utensils",
-		"styles": [
-			"solid"
-		],
-		"label": "Utensils",
-		"terms": [
-			"food",
-			"restaurant",
-			"spoon",
-			"knife",
-			"dinner",
-			"eat",
-			"cutlery"
-		],
-		"unicode": "f2e7"
-	},
-	{
-		"id": "vaadin",
-		"styles": [
-			"brands"
-		],
-		"label": "Vaadin",
-		"terms": [],
-		"unicode": "f408"
-	},
-	{
 		"id": "venus",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Venus",
 		"terms": [
@@ -8621,7 +7246,7 @@
 	{
 		"id": "venus-double",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Venus Double",
 		"terms": [],
@@ -8630,7 +7255,7 @@
 	{
 		"id": "venus-mars",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Venus Mars",
 		"terms": [],
@@ -8639,7 +7264,7 @@
 	{
 		"id": "viacoin",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Viacoin",
 		"terms": [],
@@ -8648,7 +7273,7 @@
 	{
 		"id": "viadeo",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Viadeo",
 		"terms": [],
@@ -8657,69 +7282,47 @@
 	{
 		"id": "viadeo-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Viadeo Square",
 		"terms": [],
 		"unicode": "f2aa"
 	},
 	{
-		"id": "viber",
+		"id": "video-camera",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "Viber",
-		"terms": [],
-		"unicode": "f409"
-	},
-	{
-		"id": "video",
-		"styles": [
-			"solid"
-		],
-		"label": "Video",
+		"label": "Video Camera",
 		"terms": [
 			"film",
 			"movie",
-			"record",
-			"camera",
-			"video-camera"
+			"record"
 		],
 		"unicode": "f03d"
 	},
 	{
 		"id": "vimeo",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Vimeo",
 		"terms": [],
-		"unicode": "f40a"
+		"unicode": "f27d"
 	},
 	{
 		"id": "vimeo-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Vimeo Square",
 		"terms": [],
 		"unicode": "f194"
 	},
 	{
-		"id": "vimeo-v",
-		"styles": [
-			"brands"
-		],
-		"label": "Vimeo",
-		"terms": [
-			"vimeo"
-		],
-		"unicode": "f27d"
-	},
-	{
 		"id": "vine",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Vine",
 		"terms": [],
@@ -8728,34 +7331,27 @@
 	{
 		"id": "vk",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "VK",
 		"terms": [],
 		"unicode": "f189"
 	},
 	{
-		"id": "vnv",
+		"id": "volume-control-phone",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "VNV",
-		"terms": [],
-		"unicode": "f40b"
-	},
-	{
-		"id": "volleyball-ball",
-		"styles": [
-			"solid"
+		"label": "Volume Control Phone",
+		"terms": [
+			"telephone"
 		],
-		"label": "Volleyball Ball",
-		"terms": [],
-		"unicode": "f45f"
+		"unicode": "f2a0"
 	},
 	{
 		"id": "volume-down",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "volume-down",
 		"terms": [
@@ -8770,7 +7366,7 @@
 	{
 		"id": "volume-off",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "volume-off",
 		"terms": [
@@ -8784,7 +7380,7 @@
 	{
 		"id": "volume-up",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "volume-up",
 		"terms": [
@@ -8797,74 +7393,38 @@
 		"unicode": "f028"
 	},
 	{
-		"id": "vuejs",
-		"styles": [
-			"brands"
-		],
-		"label": "Vue.js",
-		"terms": [],
-		"unicode": "f41f"
-	},
-	{
-		"id": "warehouse",
-		"styles": [
-			"solid"
-		],
-		"label": "Warehouse",
-		"terms": [],
-		"unicode": "f494"
-	},
-	{
 		"id": "weibo",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Weibo",
 		"terms": [],
 		"unicode": "f18a"
 	},
 	{
-		"id": "weight",
-		"styles": [
-			"solid"
-		],
-		"label": "Weight",
-		"terms": [
-			"scale"
-		],
-		"unicode": "f496"
-	},
-	{
 		"id": "weixin",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Weixin (WeChat)",
-		"terms": [],
+		"terms": [
+			"wechat"
+		],
 		"unicode": "f1d7"
 	},
 	{
 		"id": "whatsapp",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "What's App",
 		"terms": [],
 		"unicode": "f232"
 	},
 	{
-		"id": "whatsapp-square",
-		"styles": [
-			"brands"
-		],
-		"label": "What's App Square",
-		"terms": [],
-		"unicode": "f40c"
-	},
-	{
 		"id": "wheelchair",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Wheelchair",
 		"terms": [
@@ -8874,18 +7434,21 @@
 		"unicode": "f193"
 	},
 	{
-		"id": "whmcs",
+		"id": "wheelchair-alt",
 		"styles": [
-			"brands"
+			""
 		],
-		"label": "WHMCS",
-		"terms": [],
-		"unicode": "f40d"
+		"label": "Wheelchair Alt",
+		"terms": [
+			"handicap",
+			"person"
+		],
+		"unicode": "f29b"
 	},
 	{
 		"id": "wifi",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "WiFi",
 		"terms": [],
@@ -8894,7 +7457,7 @@
 	{
 		"id": "wikipedia-w",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Wikipedia W",
 		"terms": [],
@@ -8903,18 +7466,29 @@
 	{
 		"id": "window-close",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Window Close",
-		"terms": [],
-		"unicode": "f410"
+		"terms": [
+			"times-rectangle"
+		],
+		"unicode": "f2d3"
+	},
+	{
+		"id": "window-close-o",
+		"styles": [
+			""
+		],
+		"label": "Window Close Outline",
+		"terms": [
+			"times-rectangle-o"
+		],
+		"unicode": "f2d4"
 	},
 	{
 		"id": "window-maximize",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Window Maximize",
 		"terms": [],
@@ -8923,8 +7497,7 @@
 	{
 		"id": "window-minimize",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Window Minimize",
 		"terms": [],
@@ -8933,8 +7506,7 @@
 	{
 		"id": "window-restore",
 		"styles": [
-			"solid",
-			"regular"
+			""
 		],
 		"label": "Window Restore",
 		"terms": [],
@@ -8943,7 +7515,7 @@
 	{
 		"id": "windows",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Windows",
 		"terms": [
@@ -8952,38 +7524,18 @@
 		"unicode": "f17a"
 	},
 	{
-		"id": "won-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Won Sign",
-		"terms": [
-			"krw"
-		],
-		"unicode": "f159"
-	},
-	{
 		"id": "wordpress",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "WordPress Logo",
 		"terms": [],
 		"unicode": "f19a"
 	},
 	{
-		"id": "wordpress-simple",
-		"styles": [
-			"brands"
-		],
-		"label": "Wordpress Simple",
-		"terms": [],
-		"unicode": "f411"
-	},
-	{
 		"id": "wpbeginner",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "WPBeginner",
 		"terms": [],
@@ -8992,7 +7544,7 @@
 	{
 		"id": "wpexplorer",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "WPExplorer",
 		"terms": [],
@@ -9001,7 +7553,7 @@
 	{
 		"id": "wpforms",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "WPForms",
 		"terms": [],
@@ -9010,31 +7562,21 @@
 	{
 		"id": "wrench",
 		"styles": [
-			"solid"
+			""
 		],
 		"label": "Wrench",
 		"terms": [
 			"settings",
 			"fix",
 			"update",
-			"spanner",
-			"tool"
+			"spanner"
 		],
 		"unicode": "f0ad"
 	},
 	{
-		"id": "xbox",
-		"styles": [
-			"brands"
-		],
-		"label": "Xbox",
-		"terms": [],
-		"unicode": "f412"
-	},
-	{
 		"id": "xing",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Xing",
 		"terms": [],
@@ -9043,7 +7585,7 @@
 	{
 		"id": "xing-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Xing Square",
 		"terms": [],
@@ -9052,63 +7594,36 @@
 	{
 		"id": "y-combinator",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Y Combinator",
-		"terms": [],
+		"terms": [
+			"yc"
+		],
 		"unicode": "f23b"
 	},
 	{
 		"id": "yahoo",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Yahoo Logo",
 		"terms": [],
 		"unicode": "f19e"
 	},
 	{
-		"id": "yandex",
-		"styles": [
-			"brands"
-		],
-		"label": "Yandex",
-		"terms": [],
-		"unicode": "f413"
-	},
-	{
-		"id": "yandex-international",
-		"styles": [
-			"brands"
-		],
-		"label": "Yandex International",
-		"terms": [],
-		"unicode": "f414"
-	},
-	{
 		"id": "yelp",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Yelp",
 		"terms": [],
 		"unicode": "f1e9"
 	},
 	{
-		"id": "yen-sign",
-		"styles": [
-			"solid"
-		],
-		"label": "Yen Sign",
-		"terms": [
-			"jpy"
-		],
-		"unicode": "f157"
-	},
-	{
 		"id": "yoast",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "Yoast",
 		"terms": [],
@@ -9117,24 +7632,37 @@
 	{
 		"id": "youtube",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "YouTube",
 		"terms": [
 			"video",
-			"film",
-			"youtube-play",
-			"youtube-square"
+			"film"
 		],
 		"unicode": "f167"
 	},
 	{
+		"id": "youtube-play",
+		"styles": [
+			""
+		],
+		"label": "YouTube Play",
+		"terms": [
+			"start",
+			"playing"
+		],
+		"unicode": "f16a"
+	},
+	{
 		"id": "youtube-square",
 		"styles": [
-			"brands"
+			""
 		],
 		"label": "YouTube Square",
-		"terms": [],
-		"unicode": "f431"
+		"terms": [
+			"video",
+			"film"
+		],
+		"unicode": "f166"
 	}
 ]

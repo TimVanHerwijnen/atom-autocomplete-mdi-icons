@@ -1,19 +1,19 @@
 {
-  "name": "autocomplete-font-awesome",
+  "name": "autocomplete-mdi-icons",
   "main": "./lib/main",
   "version": "1.0.2",
-  "description": "Font Awesome autocomplete and icon previews for Atom.",
+  "description": "Material design autocomplete and icon previews for Atom.",
   "keywords": [
     "autocomplete",
     "provider",
     "font",
-    "awesome",
-    "fontawesome",
+    "mdi",
+    "material design icons",
     "icons",
     "preview"
   ],
-  "repository": "https://github.com/lonekorean/atom-autocomplete-font-awesome",
-  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "repository": "https://github.com/TimVanHerwijnen/atom-autocomplete-mdi-icons",
+  "author": "<Tim van Herwijnen> (https://github.com/TimVanHerwijnen)",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
@@ -27,18 +27,14 @@
   },
   "configSchema": {
     "version": {
-      "title": "Font Awesome Version",
-      "description": "Which version of Font Awesome to use for suggestions.",
+      "title": "Mdi version",
+      "description": "Which version of MDI Icons to use for suggestions.",
       "type": "string",
-      "default": "5.0.8",
+      "default": "5.4.55",
       "enum": [
         {
-          "value": "4.7.0",
-          "description": "Version 4.7.0"
-        },
-        {
-          "value": "5.0.8",
-          "description": "Version 5.0.8"
+          "value": "5.4.55",
+          "description": "Version 5.4.55"
         }
       ]
     }
