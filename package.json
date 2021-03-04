@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-mdi-icons",
   "main": "./lib/main",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Material design autocomplete and icon previews for Atom.",
   "keywords": [
     "autocomplete",

@@ -1,7 +1,7 @@
 [
 	{
 		"shortcode": "mdi",
-		"body": "<v-icon>$1</v-icon>",
+		"body": "<v-icon>mdi-$1</v-icon>",
 		"description": "Vuetify icon component",
 		"documentationURL": "https://vuetifyjs.com/en/components/icons/"
 	}
