@@ -1,4 +1,4 @@
-# atom-autocomplete-font-awesome
+# atom-autocomplete-mdi-icons
 
 Material Design Icons autocomplete and icon previews for Atom.
 
