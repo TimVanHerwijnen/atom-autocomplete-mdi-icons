@@ -1,23 +1,20 @@
 # atom-autocomplete-font-awesome
 
-Font Awesome autocomplete and icon previews for Atom.
+Material Design Icons autocomplete and icon previews for Atom.
 
-![Demo](https://user-images.githubusercontent.com/1245573/35697669-e38c0f8c-0758-11e8-912a-782bb257bb6d.gif)
+## Forked from [lonecorean](https://github.com/lonekorean)'s [atom-autocomplete-font-awesome](https://github.com/lonekorean/atom-autocomplete-font-awesome)
+
+![Demo]![mdi-icons-autocomplete](https://user-images.githubusercontent.com/60601502/110090807-fe9a7080-7d97-11eb-9ba3-6317430ed359.gif)
+
 
 ## Features
 
 - Shows icon previews alongside suggestions
-- Supports Font Awesome versions 4.7.0 and 5.0.x
-- Includes HTML snippets for using icons
-- Also searches aliases so icons are easier to find
+- Supports MDI version 5.4.55
+- Includes one HTML snippet for vuetify since I desperately wanted it :)
+- ~~Also searches aliases so icons are easier to find~~ Too many icons to give aliases, so I didn't add any. MAYBE i'll add them in the future
 - Displays the unicode value for each icon
 - Provides links to documentation for each Font Awesome icon
-- Includes suggestions for modifiers (such as `fa-2x`) with helper text
-- Intelligently switches out style prefixes (such as `fas` to `far`) when necessary
-
-## Versions
-
-The default is Font Awesome version 5.0.x. To switch between Font Awesome versions, go into Atom's Settings/Preferences &gt; Packages &gt; autocomplete-font-awesome &gt; Settings &gt; Font Awesome Version.
 
 ## Installation
 
