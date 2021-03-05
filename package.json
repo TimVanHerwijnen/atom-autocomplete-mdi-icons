@@ -13,7 +13,16 @@
     "preview"
   ],
   "repository": "https://github.com/TimVanHerwijnen/atom-autocomplete-mdi-icons",
-  "author": "<Tim van Herwijnen> (https://github.com/TimVanHerwijnen)",
+  "contributors": [
+    {
+      "name": "Tim van Herwijnen",
+      "url": "https://github.com/TimVanHerwijnen"
+    },
+    {
+      "name": "Will Boyd",
+      "url": "https://github.com/lonekorean"
+    }
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
@@ -38,5 +47,10 @@
         }
       ]
     }
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "https://github.com/TimVanHerwijnen/atom-autocomplete-mdi-icons",
+    "sha": "445fb9eae68aea338a2feede7771e935108396fc"
   }
 }
