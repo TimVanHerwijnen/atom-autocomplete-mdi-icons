@@ -18,10 +18,10 @@ Material Design Icons autocomplete and icon previews for Atom.
 
 ## Installation
 
-Go into Atom's Settings/Preferences &gt; Install &gt; search for `autocomplete-font-awesome`
+I'm not planning on publishing it unless the will be a great demand for it
 
-Or install via the command line:
+So you must install it by command line:
 
 ```
-apm install autocomplete-font-awesome
+apm install https://github.com/TimVanHerwijnen/atom-autocomplete-mdi-icons
 ```
