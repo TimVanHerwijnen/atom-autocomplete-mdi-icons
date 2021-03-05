@@ -4,7 +4,7 @@ Material Design Icons autocomplete and icon previews for Atom.
 
 ## Forked from [lonecorean](https://github.com/lonekorean)'s [atom-autocomplete-font-awesome](https://github.com/lonekorean/atom-autocomplete-font-awesome)
 
-![Demo]![mdi-icons-autocomplete](https://user-images.githubusercontent.com/60601502/110090807-fe9a7080-7d97-11eb-9ba3-6317430ed359.gif)
+![mdi-icons-autocomplete](https://user-images.githubusercontent.com/60601502/110090807-fe9a7080-7d97-11eb-9ba3-6317430ed359.gif)
 
 
 ## Features
